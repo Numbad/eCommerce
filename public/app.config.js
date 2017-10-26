@@ -13,7 +13,7 @@ config(['$locationProvider' ,'$routeProvider',
         template: '<manga-detail></manga-detail>'
       }).
       when('/mangas/validate', {
-        template: '<validate-purchase></validate-purchase>'
+        template: '<validat-purchase></validate-purchase>'
       }).
       otherwise('/mangas');
   }
