@@ -1,0 +1,52 @@
+[
+    {
+        "id": "one-punch-man",
+        "release": "01/2016",
+        "price": 6.80,
+        "variety": "seinen",
+        "type": "Action, Comédie",
+        "design": "MURATA Yûsuke",
+        "scenario": "ONE",
+        "editorVo" : "Shûeisha",
+        "editorVf" : "Kurokawa",
+        "advisedAge" : 10,
+        "summary": "Saitama est un jeune homme sans emploi et sans réelle perspective d’avenir, jusqu’au jour où il décide de prendre sa vie en main. Son nouvel objectif : devenir un super-héros. Il s’entraîne alors sans relâche pendant trois ans et devient si puissant qu’il est capable d’éliminer ses adversaires d’un seul coup de poing. On le surnomme désormais One-Punch Man. Mais rapidement, l’euphorie du succès cède place à l’ennui, car lorsqu’on est si fort, les victoires perdent de leur saveur…",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/one-punch-man/one-punch-man.8.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "id": "soul-eater",
+        "release": "03/2009",
+        "price": 6.60,
+        "variety": "shonen",
+        "type": "Aventure, Comédie",
+        "design": "ÔKUBO Atsushi",
+        "scenario": "ÔKUBO Atsushi",
+        "editorVo" : "Square Enix",
+        "editorVf" : "Kurokawa",
+        "advisedAge" : 12,
+        "summary": "Afin d'accéder au rang suprême de « Death Scythe », une arme démoniaque doit ingérer 99 âmes humaines et 1 âme de sorcière. Cette mission est confiée aux Meisters, des spécialistes du combat qui vont récolter les âmes au péril de leur propre vie. Dans Soul Eater, partez à la chasse aux âmes en compagnie des élèves de l'institut Shibusen, école de formation pour faucheurs d'âmes !",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/soul-eater/soul-eater.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/soul-eater/soul-eater.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/soul-eater/soul-eater.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/soul-eater/soul-eater.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/soul-eater/soul-eater.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/soul-eater/soul-eater.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/soul-eater/soul-eater.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/soul-eater/soul-eater.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/soul-eater/soul-eater.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/soul-eater/soul-eater.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/soul-eater/soul-eater.11.jpg"
+            },
+            {
+                "numero": 12,
+                "urlImage": "img/mangas/soul-eater/soul-eater.12.jpg"
+            },
+            {
+                "numero": 13,
+                "urlImage": "img/mangas/soul-eater/soul-eater.13.jpg"
+            },
+            {
+                "numero": 14,
+                "urlImage": "img/mangas/soul-eater/soul-eater.14.jpg"
+            },
+            {
+                "numero": 15,
+                "urlImage": "img/mangas/soul-eater/soul-eater.15.jpg"
+            },
+            {
+                "numero": 16,
+                "urlImage": "img/mangas/soul-eater/soul-eater.16.jpg"
+            },
+            {
+                "numero": 17,
+                "urlImage": "img/mangas/soul-eater/soul-eater.17.jpg"
+            },
+            {
+                "numero": 18,
+                "urlImage": "img/mangas/soul-eater/soul-eater.18.jpg"
+            },
+            {
+                "numero": 19,
+                "urlImage": "img/mangas/soul-eater/soul-eater.19.jpg"
+            },
+            {
+                "numero": 20,
+                "urlImage": "img/mangas/soul-eater/soul-eater.20.jpg"
+            },
+            {
+                "numero": 21,
+                "urlImage": "img/mangas/soul-eater/soul-eater.21.jpg"
+            },
+            {
+                "numero": 22,
+                "urlImage": "img/mangas/soul-eater/soul-eater.22.jpg"
+            },
+            {
+                "numero": 23,
+                "urlImage": "img/mangas/soul-eater/soul-eater.23.jpg"
+            },
+            {
+                "numero": 24,
+                "urlImage": "img/mangas/soul-eater/soul-eater.24.jpg"
+            },
+            {
+                "numero": 25,
+                "urlImage": "img/mangas/soul-eater/soul-eater.25.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

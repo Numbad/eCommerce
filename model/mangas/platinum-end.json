@@ -1,0 +1,44 @@
+[
+    {
+        "id": "platinum-end",
+        "release": "05/2016",
+        "price": 6.99,
+        "variety": "shonen",
+        "type": "Suspense, Fantastique",
+        "design": "OBATA Takeshi",
+        "scenario": "OHBA Tsugumi",
+        "editorVo" : "Shûeisha",
+        "editorVf" : "Kaze Manga",
+        "advisedAge" : 14,
+        "summary": "Mirai, un jeune homme qui a perdu tout espoir en la vie, est sauvé par un ange alors qu'il tente de se suicider. Mais cette rencontre fatidique pourrait bien le plonger dans un désespoir plus profond encore… Takeshi OBATA et Tsugumi OHBA nous livrent un thriller sombre mettant en scène anges et humains autour d'un thème qui leur est cher : la frontière délicate entre le Bien et le Mal.",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/platinum-end/platinum-end.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/platinum-end/platinum-end.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/platinum-end/platinum-end.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/platinum-end/platinum-end.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/platinum-end/platinum-end.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/platinum-end/platinum-end.6.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]
