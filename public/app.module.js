@@ -1,2 +1,6 @@
 'use strict';
-angular.module('eCommerceApp', ['validatePurchase','ngRoute']);
+angular.module('eCommerceApp', [
+    'validatePurchase',
+    'mangasList',
+    'ngRoute'
+]);
