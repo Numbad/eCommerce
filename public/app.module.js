@@ -2,5 +2,7 @@
 angular.module('eCommerceApp', [
     'validatePurchase',
     'mangasList',
+    'mangaDetails',
+    'services',
     'ngRoute'
 ]);

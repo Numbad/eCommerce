@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module("mangasList", []);
+angular.module('mangasList', []);

@@ -9,9 +9,9 @@ angular.module('eCommerceApp')
           template: '<mangas-list></mangas-list>'
         })
         .when('/mangas/:mangaId', {
-          template: '<manga-detail></manga-detail>'
+          template: '<manga-details></manga-details>'
         })
-        .when('/mangas/validate', {
+        .when('/validate', {
           template: '<validate-purchase></validate-purchase>'
         })
         .otherwise('/mangas');

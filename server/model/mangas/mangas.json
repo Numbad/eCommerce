@@ -1,0 +1,205 @@
+[
+    {
+        "age" : 1,
+        "id": "dreamland",
+        "name": "Dreamland",
+        "price": 6.95,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 2,
+        "id": "ubel-blatt",
+        "name": "Übel Blatt",
+        "price": 7.65,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 3,
+        "id": "witch-hunter",
+        "name": "Witch Hunter",
+        "price": 6.05,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 4,
+        "id": "soul-eater",
+        "name": "Soul Eater",
+        "price": 6.60,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 5,
+        "id": "artelier-collection",
+        "name": "Artelier Collection",
+        "price": 6.60,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 6,
+        "id": "freezing",
+        "name": "Freezing",
+        "price": 7.50,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 7,
+        "id": "magi",
+        "name": "Magi",
+        "price": 6.80,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 8,
+        "id": "blood-lad",
+        "name": "Blood Lad",
+        "price": 7.65,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 9,
+        "id": "attaque-des-titans",
+        "name": "L'Attaque des Titans",
+        "price": 6.95,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 10,
+        "id": "darwins-game",
+        "name": "Darwin's Game",
+        "price": 7.65,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 11,
+        "id": "food-wars",
+        "name": "Food Wars",
+        "price": 6.99,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 12,
+        "id": "akame-ga-kill",
+        "name": "Akame Ga Kill",
+        "price": 7.65,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    }, 
+    {
+        "age" : 13,
+        "id": "attaque-des-titans-before-the-fall",
+        "name": "L'Attaque des Titans : Before the Fall",
+        "price": 6.95,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 14,
+        "id": "one-punch-man",
+        "name": "One-Punch Man",
+        "price": 6.80,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 15,
+        "id": "q",
+        "name": "Q",
+        "price": 7.90,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 16,
+        "id": "my-hero-academia",
+        "name": "My Hero Academia",
+        "price": 6.60,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 17,
+        "id": "akame-ga-kill-zero",
+        "name": "Akame Ga Kill : Zero",
+        "price": 7.65,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 18,
+        "id": "platinum-end",
+        "name": "Platinum End",
+        "price": "6.99",
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 19,
+        "id": "the-rising-of-the-shield-hero",
+        "name": "The Rising of the Shield Hero",
+        "price": 7.50,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 20,
+        "id": "ark-romancer",
+        "name": "ARK:Romancer",
+        "price": 7.50,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 21,
+        "id": "black-clover",
+        "name": "Black Clover",
+        "price": 6.79,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 22,
+        "id": "real-account",
+        "name": "Real Account",
+        "price": 6.80,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 23,
+        "id": "overlord",
+        "name": "Overlord",
+        "price": 7.99,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 24,
+        "id": "distopiary",
+        "name": "Distopiary",
+        "price": 7.50,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 25,
+        "id": "re-zero-arc-one",
+        "name": "Re:Zero - Re:Life in a different world from zero",
+        "price": 6.99,
+        "imageUrl": "/img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 26,
+        "id": "re-zero-arc-two",
+        "name": "Re:Zero - Re:Life in a different world from zero",
+        "price": 6.99,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 27,
+        "id": "die-retry",
+        "name": "Die&Retry",
+        "price": 7.99,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age": 28,
+        "id": "mushoku-tensei",
+        "name": "Mushoku Tensei",
+        "price": 7.50,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    },
+    {
+        "age" : 29,
+        "id": "dan-machi",
+        "name": "Dan Machi : La Légende des Familias",
+        "price": 6.99,
+        "imageUrl": "img/mangas/dreamland/dreamland.1.jpg"
+    }
+]
