@@ -1,0 +1,32 @@
+[
+    {
+        "id": "ark-romancer",
+        "release": "08/2016",
+        "price": 7.50,
+        "variety": "seinen",
+        "type": "Aventure, Fantastique",
+        "design": "KIM So-hee",
+        "scenario": "LIM Dall Young",
+        "editorVo" : "Media Factory",
+        "editorVf" : "Doki Doki",
+        "advisedAge" : 14,
+        "summary": "Suite à un terrible fait divers, Sôji perd toute sa famille et se retrouve seul au monde. Devenu un adolescent apathique et solitaire, le jeune lycéen préfère sécher les cours et mener une vie indolente chez lui. C’est alors qu’il croise le chemin d’Ekaterina Brünwald, une mystérieuse fille venue d’une autre planète. Cette rencontre va bouleverser la vie de Sôji, qui se retrouve malgré lui au centre d’un complot où se mêlent le destin de la Terre et celui de Landmia.",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/ark-romancer/ark-romancer.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/ark-romancer/ark-romancer.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/ark-romancer/ark-romancer.3.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "artelier-collection",
+        "release": "05/2010",
+        "price": 6.60,
+        "variety": "shonen",
+        "type": "Aventure, Comédie",
+        "design": "HIOKA Yen",
+        "scenario": "HIOKA Yen",
+        "editorVo" : "Square Enix",
+        "editorVf" : "Ki-oon",
+        "advisedAge" : 12,
+        "summary": "Dans le monde d’Artelier, des artisans de génie, les Masterpiece, possèdent un pouvoir qu’on dit accordé par la main de dieu. Les objets et les vêtements qu’ils fabriquent recèlent une puissance magique capable de réaliser tous les souhaits. Makumo, jeune apprenti, découvre un jour qu’il a la capacité exceptionnelle de plier le tissu à sa volonté. Accompagné de Kiriku, un autre prodige aux talents exceptionnels, il se lance dans une quête destinée à explorer toutes les possibilités que leur offre ce mystérieux talent ! Mais très vite, leur chemin va croiser celui des membres d’une mystérieuse organisation qui multiplie les assassinats aux quatre coins du monde. Ils ne vont pas tarder à découvrir que ces crimes ne sont que la première étape d’une macabre machination derrière laquelle se cachent… de redoutables Masterpiece !",
+       "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.11.jpg"
+            },
+            {
+                "numero": 12,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.12.jpg"
+            },
+            {
+                "numero": 13,
+                "urlImage": "img/mangas/artelier-collection/artelier-collection.13.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]
