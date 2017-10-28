@@ -25,6 +25,12 @@ app.get("/mangas", (req, res) => {
     res.send(JSON.stringify({status: 200, mangas: mangas}));
 });
 
+app.get("/mangas/:mangaId", (req, res) => {
+    var mangaById = require("./model/mangas/" + req.params.mangaId + ".json");
+    //console.log(mangaById);
+    res.send(JSON.stringify({status: 200, manga: mangaById}));
+});
+
 app.listen(port,function(){
     console.log("server running");
 });

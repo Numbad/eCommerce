@@ -2,7 +2,7 @@
     {
         "id": "food-wars",
         "release": "09/2014",
-        "price": 6.99,
+        "price": "6.99",
         "variety": "shonen",
         "type": "Comédie, Gastronomie",
         "design": "SAEKI Shun",

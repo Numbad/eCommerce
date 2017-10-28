@@ -13,8 +13,9 @@ angular.module('services.manga')
                 return $http.get("http://localhost:3000/mangas");
             }
 
-            function getMangaById(manga) {
-                return null;
+            function getMangaById(mangaId) {
+                //console.log(mangaId);
+                return $http.get("http://localhost:3000/mangas/" + mangaId);
             }
         }
     ]);

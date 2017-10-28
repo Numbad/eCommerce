@@ -1,1 +1,33 @@
-{{mdc.test}}
+<div class="detailsManga">
+    <h1>{{manga.name}}</h1>
+
+    <div class="infosManga">
+        <img src="{{manga.volumes[0].urlImage}}" alt="{{manga.name}}"/>
+        <p>
+            <label class="properties">Titre :</label> <label class="values">{{manga.name}}</label><br />
+            <label class="properties">Date de Sortie :</label> <label class="values">{{manga.release}}</label><br />
+            <label class="properties">Type :</label> <label class="values">{{manga.variety}}</label><br />
+            <label class="properties">Genre :</label> <label class="values">{{manga.type}}</label><br />
+            <label class="properties">Scénario :</label> <label class="values">{{manga.scenario}}</label><br />
+            <label class="properties">Editeur VF :</label> <label class="values">{{manga.editorVf}}</label><br />
+            <label class="properties">Editeur VO :</label> <label class="values">{{manga.editorVo}}</label><br />
+            <label class="properties">Dessin :</label> <label class="values">{{manga.design}}</label><br />
+        </p>
+    </div>
+
+    <p class="pPrice">Prix : {{manga.price}} <button class="buttonBuy"><img src="img/shoppingcart.png" alt="panier"/></button></p>
+
+    <h2>Résumé :</h2>
+    <p class="summary">
+        {{manga.summary}}
+    </p>
+
+    <div class="volumesManga">
+        <ul>
+            <li class="mangasList" ng-repeat="infosManga in manga.volumes"><!-- | orderBy: infosManga.volumes.numero"> -->
+                <img src="{{infosManga.urlImage}}" alt="{{manga.name}}" />
+                <p><label class="price">{{manga.price}}€</label></p>
+            </li>
+        </ul>
+    </div>
+</div>
