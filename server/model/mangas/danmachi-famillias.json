@@ -1,0 +1,28 @@
+[
+    {
+        "id": "danmachi-famillias",
+        "release": "09/2017",
+        "price": 6.99,
+        "variety": "shonen",
+        "type": "Science-fiction, Action",
+        "design": "KUNIEDA",
+        "scenario": "ÔMORI Fujino",
+        "editorVo" : "Square Enix",
+        "editorVf" : "Ototo Manga",
+        "advisedAge" : 12,
+        "summary": "Transportés dans un univers de fantasy façonné par un auteur qui prend un malin plaisir à s’approprier les mythologies du monde, nous nous retrouvons à Orario, une cité devenue terre d’accueil de dieux et déesses qui ne nous sont pas inconnus. Après la mort de son grand-père, Bell Cranel n’a qu’une idée en tête, devenir un aventurier de renom ! Pour cela, il devra venir à bout du terrible Donjon labyrinthique d’Orario. Heureusement, il pourra compter sur le soutien de sa déesse protectrice, la dénommée Hestia. Ainsi débute la légende de Bell, ou presque... car le chemin de notre jeune aventurier novice sera long et semé d’embûches. Entre affrontements contre des monstres impressionnants, et machinations de divinités intriguées par les mystérieuses capacités que développe notre héros... la nouvelle vie de Bell ne sera pas de tout repos !",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/danmachi-famillias/danmachi-famillias.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/danmachi-famillias/danmachi-famillias.2.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

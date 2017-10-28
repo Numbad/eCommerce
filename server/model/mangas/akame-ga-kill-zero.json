@@ -1,0 +1,40 @@
+[
+    {
+        "id": "akame-ga-kill-zero",
+        "release": "05/2016",
+        "price": 7.65,
+        "variety": "shonen",
+        "type": "Aventure, Fantastique",
+        "design": "TORU Kei",
+        "scenario": "TAKAHIRO",
+        "editorVo" : "Square Enix",
+        "editorVf" : "Kurokawa",
+        "advisedAge" : 12,
+        "summary": "Achetée par l’Empire et formée pour devenir une tueuse dès son plus jeune âge, Akame côtoie chaque jour la mort et les carnages. Alors qu’elle croyait tuer pour protéger les gens, elle s’aperçoit que la réalité est toute autre…",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.5.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

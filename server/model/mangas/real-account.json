@@ -1,0 +1,40 @@
+[
+    {
+        "id": "real-account",
+        "release": "10/2016",
+        "price": 6.80,
+        "variety": "shonen",
+        "type": "Aventure, Horreur, Survival Game",
+        "design": "WATANABE Shizumu",
+        "scenario": "OKUSHÔ",
+        "editorVo" : "Kôdansha",
+        "editorVf" : "Kurokawa",
+        "advisedAge" : 14,
+        "summary": "Au-delà d’Internet, il y a Real Account, aka ReA. Le Japon entier ne jure plus que par ce réseau social qui rythme l’existence de chaque habitant de l’archipel. Ataru Kashiwagi n’échappe pas à la règle, et ReA lui a permis de s’inventer une vie en ligne sans rapport avec la réalité. Une double identité qu’il gère sans problème jusqu’à ce qu’il se retrouve pris en otage par le réseau. Il n’est pas le seul : 10 000 personnes sont ainsi prisonnières de ReA et de sa mascotte. Et cette dernière a mis au point un jeu qui laisse peu de chances de survie aux participants. Que le massacre commence…",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/real-account/real-account.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/real-account/real-account.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/real-account/real-account.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/real-account/real-account.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/real-account/real-account.5.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

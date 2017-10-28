@@ -3,27 +3,29 @@
   <head>
     <meta charset="utf-8">
     <title>E-Commerce</title>
-    <link rel="stylesheet" href="css/app.css" />
-    <link rel="stylesheet" href="script/bootstrap/dist/css/bootstrap.css" />
     <script src="script/angular/angular.js"></script>
     <script src="script/angular-route/angular-route.js"></script>
   
   </head>
   <body>
 
-    <div>
-        <div ng-view></div>
-      </div>
-      <script src="validate-purchase/validate-purchase.module.js"></script>
-      <script src="validate-purchase/validate-purchase.component.js"></script>
-      <script src="mangas-list/mangas-list.module.js"></script>
-      <script src="mangas-list/mangas-list.component.js"></script>
-      <script src="manga-details/manga-details.module.js"></script>
-      <script src="manga-details/manga-details.component.js"></script>
-      <script src="script/services/services.module.js"></script>
-      <script src="script/services/manga/manga.module.js"></script>
-      <script src="script/services/manga/manga.service.js"></script>
-      <script src="app.module.js"></script>
-      <script src="app.config.js"></script>
+    <div class="container">
+      <div ng-view></div>
+    </div>
+
+    <script src="validate-purchase/validate-purchase.module.js"></script>
+    <script src="validate-purchase/validate-purchase.component.js"></script>
+    <script src="mangas-list/mangas-list.module.js"></script>
+    <script src="mangas-list/mangas-list.component.js"></script>
+    <script src="manga-details/manga-details.module.js"></script>
+    <script src="manga-details/manga-details.component.js"></script>
+    <script src="script/services/services.module.js"></script>
+    <script src="script/services/manga/manga.module.js"></script>
+    <script src="script/services/manga/manga.service.js"></script>
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+
+    <link rel="stylesheet" href="script/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="css/app.css" />
   </body>
 </html>

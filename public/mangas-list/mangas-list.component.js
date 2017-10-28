@@ -6,7 +6,7 @@ angular.module('mangasList')
         controllerAs: "mlc",
         controller: ['Manga', '$scope', 
             function MangasListController(Manga, $scope) {
-                //var self = this; //ne fonctionne pas avec this. Ne fonctionne qu'avec $scope. A voir
+                var self = this; //ne fonctionne pas avec this. Ne fonctionne qu'avec $scope. A voir
                 self.mangas = [];
                 Manga.getAllMangas()
                     .then(function onSuccess(response) {
@@ -15,6 +15,7 @@ angular.module('mangasList')
                     .catch( function onError() {
                         console.log("Erreur de récupération des mangas");
                     });
+                self.orderMangas = 'name';
             }
         ]
     });

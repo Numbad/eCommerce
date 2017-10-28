@@ -1,0 +1,36 @@
+[
+    {
+        "id": "overlord",
+        "release": "01/2017",
+        "price": 7.99,
+        "variety": "seinen",
+        "type": "Aventure, Fantastique",
+        "design": "MIYAMA Hugin",
+        "scenario": "MARUYAMA Kugane , OSHIO Satoshi",
+        "editorVo" : "Kadokawa Shoten",
+        "editorVf" : "Ototo Manga",
+        "advisedAge" : 12,
+        "summary": "Nous sommes en l'an 2138. Yggdrasil, le célèbre MMORPG à succès est sur le point de fermer. Momonga, nécromancien mort vivant de niveau 100, chef de la puissante guilde « Ainz Ooal Gown », attend seul larrêt du jeu. Cependant, l'heure de la fermeture passée, Momonga ne se déconnecte pas et les personnages non jouables se retrouvent dotés dune conscience Prisonnier d'un monde inconnu, notre seigneur maléfique va partir à la recherche d'un nouveau but à son existence et prendre la décision de conquérir ce nouvel univers tout en y laissant son empreinte...",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/overlord/overlord.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/overlord/overlord.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/overlord/overlord.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/overlord/overlord.4.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

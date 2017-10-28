@@ -1,0 +1,52 @@
+[
+    {
+        "id": "black-clover",
+        "release": "09/2016",
+        "price": 6.79,
+        "variety": "shonen",
+        "type": "Aventure, Fantastique",
+        "design": "TABATA Yûki",
+        "scenario": "TABATA Yûki",
+        "editorVo" : "Shûeisha",
+        "editorVf" : "Kaze Manga",
+        "advisedAge" : 12,
+        "summary": "Yuno et Asta sont deux jeunes héros ayant le même rêve : celui de devenir le prochain Empereur Mage du royaume de Clover, grâce à la puissance te omniprésence de la magie. Meilleurs amis et élevés côte à côte depuis leur plus tendre enfance, nos deux héros sont pourtant radicalement différent, puisque si Yuno est naturellement surdoué pour la magie, Asta est lui a priori incapable de la manipuler. C'est ainsi que lors de la cérémonie d'attribution de leur grimoire à l'école des mages, Yuno reçoit le légendaire grimoire au trèfle à quatre feuilles tandis qu'Asta, lui, repart bredouille de son examen. Mais très vite, un ancien et mystérieux ouvrage noir décoré à cinq feuilles surgit devant lui! Un grimoire d'anti-magie qui pourrait bien réserver un avenir plein d'aventures à notre jeune héros, qui va vite devoir composer avec son destin hors du commun.",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/black-clover/black-clover.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/black-clover/black-clover.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/black-clover/black-clover.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/black-clover/black-clover.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/black-clover/black-clover.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/black-clover/black-clover.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/black-clover/black-clover.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/black-clover/black-clover.8.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

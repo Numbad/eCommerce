@@ -1,0 +1,96 @@
+[
+    {
+        "id": "food-wars",
+        "release": "09/2014",
+        "price": 6.99,
+        "variety": "shonen",
+        "type": "Comédie, Gastronomie",
+        "design": "SAEKI Shun",
+        "scenario": "TSUKUDA Yûto",
+        "editorVo" : "Shûeisha",
+        "editorVf" : "Delcourt",
+        "advisedAge" : 10,
+        "summary": "Le jeune Sôma a grandi dans les cuisines du restaurant familial et se prépare depuis toujours à prendre la succession. Mais sa vie se retrouve bouleversée quand son père accepte un poste dans un palace new-yorkais. Le jeune garçon est alors envoyé dans une prestigieuse école culinaire. Bien décidé à ne pas décevoir sa famille, Sôma devra rivaliser de génie pour s’imposer parmi les meilleurs espoirs.",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/food-wars/food-wars.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/food-wars/food-wars.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/food-wars/food-wars.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/food-wars/food-wars.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/food-wars/food-wars.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/food-wars/food-wars.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/food-wars/food-wars.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/food-wars/food-wars.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/food-wars/food-wars.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/food-wars/food-wars.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/food-wars/food-wars.11.jpg"
+            },
+            {
+                "numero": 12,
+                "urlImage": "img/mangas/food-wars/food-wars.12.jpg"
+            },
+            {
+                "numero": 13,
+                "urlImage": "img/mangas/food-wars/food-wars.13.jpg"
+            },
+            {
+                "numero": 14,
+                "urlImage": "img/mangas/food-wars/food-wars.14.jpg"
+            },
+            {
+                "numero": 15,
+                "urlImage": "img/mangas/food-wars/food-wars.15.jpg"
+            },
+            {
+                "numero": 16,
+                "urlImage": "img/mangas/food-wars/food-wars.16.jpg"
+            },
+            {
+                "numero": 17,
+                "urlImage": "img/mangas/food-wars/food-wars.17.jpg"
+            },
+            {
+                "numero": 18,
+                "urlImage": "img/mangas/food-wars/food-wars.18.jpg"
+            },
+            {
+                "numero": 19,
+                "urlImage": "img/mangas/food-wars/food-wars.19.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

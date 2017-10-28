@@ -1,5 +1,18 @@
+<p>Trier Par :
+    <select ng-model="mlc.orderMangas">
+        <option value="name">Nom</option>
+        <option value="age">Date de Sortie</option>
+        <option value="price">Prix</option>
+    </select>
+</p>
+
+<p>
+    Recherche : <input ng-model="mlc.searchManga" placeholder="Rechercher un manga" />
+</p>
+
 <ul>
-    <li ng-repeat="manga in mangas">
-        <img src="/img/mangas/dreamland/dreamland.1.jpg" alt="{{manga.name}}" />
+    <li class="mangasList" ng-repeat="manga in mangas | filter: mlc.searchManga | orderBy: mlc.orderMangas">
+        <img src="{{manga.imageUrl}}" alt="{{manga.name}}" />
+        <p><label class="price">{{manga.price}}€</label></p>
     </li>
 </ul>

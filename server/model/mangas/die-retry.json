@@ -1,0 +1,28 @@
+[
+    {
+        "id": "die-retry",
+        "release": "05/2017",
+        "price": 7.99,
+        "variety": "shonen",
+        "type": "Aventure, Fantastique",
+        "design": "MIURA Jun",
+        "scenario": "ABE Masayuki",
+        "editorVo" : "Alpha Polis",
+        "editorVf" : "Delcourt",
+        "advisedAge" : 14,
+        "summary": "Après quatre ans de guerre qui ont presque détruit le monde, Kail et ses alliés lancent une attaque suicide sur le château du Roi démon et tuent ce dernier. En tentant de saisir la source du pouvoir, Kail perd connaissance. Il se réveille, quatre ans en arrière dans son village natal qui aurait dû être détruit. Bien que son physique ne soit pas encore adapté au combat, il a conservé ses souvenirs et va les utiliser pour repartir à l’aventure et sauver le monde !",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/die-retry/die-retry.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/die-retry/die-retry.2.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

@@ -1,8 +1,9 @@
 [
     {
         "id": "dreamland",
+        "name": "Dreamland",
         "release": "01/2006",
-        "price": 6.95,
+        "price": "6.95",
         "variety": "shonen",
         "type": "Aventure, Fantastique",
         "design": "LEMAIRE Reno",

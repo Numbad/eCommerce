@@ -1,0 +1,40 @@
+[
+    {
+        "id": "distopiary",
+        "release": "04/2017",
+        "price": 7.50,
+        "variety": "seinen",
+        "type": "Aventure, Fantastique",
+        "design": "Tellmin",
+        "scenario": "SENGA Fumitaka",
+        "editorVo" : "Square Enix",
+        "editorVf" : "Pika",
+        "advisedAge" : 14,
+        "summary": "Dans un univers fantasy, teinté de RPG, le 23ème roi du Mal va bientôt être choisi. Il peut émerger à tout moment dans n’importe laquelle des 7 strates qui le composent. Dans ce monde, où les classes sont paramétrées à la naissance, les Exterminateurs ont pour mission de trouver et d’anéantir le roi du Mal avant qu’il ne soit trop tard. Pour cela, ces héros devront réunir une équipe de coéquipiers de classes différentes. Les Exterminateurs sont reconnus comme des héros mais contrairement aux autres classes, ils ne peuvent pas acquérir d'expérience mais seulement augmenter temporairement leur puissance. Suivez Tolza, un jeune Exterminateur, dans son voyage pour anéantir le roi du Mal en compagnie de ses coéquipiers et découvrez le terrible et sombre secret que ces derniers ne doivent jamais apprendre à propos de la classe des Exterminateurs et de leur habilité, le Supplément Héroïque!",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/distopiary/distopiary.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/distopiary/distopiary.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/distopiary/distopiary.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/distopiary/distopiary.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/distopiary/distopiary.5.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

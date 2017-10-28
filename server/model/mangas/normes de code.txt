@@ -1,7 +1,0 @@
-Noms de fichiers/dossiers : 
-Séparateur tiret : nom-fichier.file
-
-Noms variables :
-En anglais
-Séparateur Majuscule : nomVariable
-
