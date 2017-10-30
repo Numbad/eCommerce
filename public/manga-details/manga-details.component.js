@@ -4,8 +4,8 @@ angular.module('mangaDetails')
     .component('mangaDetails', {
         templateUrl: 'manga-details/manga-details.template.html',
         controllerAs: "mdc",
-        controller: ['$routeParams', 'Manga', '$scope',  
-            function MangaDetailsController($routeParams, Manga, $scope) {
+        controller: ['$routeParams', 'Manga', '$scope', '$window',  
+            function MangaDetailsController($routeParams, Manga, $scope, $window) {
                 var self = this;
                 Manga.getManga($routeParams.mangaId)
                     .then(function onSuccess(response) {
@@ -15,5 +15,8 @@ angular.module('mangaDetails')
                     .catch(function onError() {
                         console.log("Erreur de récupération du manga : " + $routeParams.mangaId);
                     });
+                self.submit = function() {
+                    $window.location = '#!/validate';
+                }
             }]
     });
