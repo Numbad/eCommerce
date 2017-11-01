@@ -5,16 +5,8 @@ const app = express();
 const port = 3000;
 
 const mangas = require("./model/mangas/mangas.json");
-
 app.use(express.static("public"));
 app.use(morgan("dev"));
-/*
-var products = [{
-    name : "test",
-    price : 15
-}]
-*/
-//require("/server/products")(app);
 
 app.get("/", (req, res) => {
     res.redirect("/index.html");
