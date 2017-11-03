@@ -170,25 +170,6 @@ body {
 }
 
 .overlay {
-<<<<<<< HEAD
-  position: fixed;
-  display: none;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  cursor: pointer;
-  background-color: rgb(101, 117, 124);
-  opacity: 0.6;
-  z-index: 990;
-
-}
-/*.navbar-side .container{
-  @include media-breakpoint-up(xs) { width: 85%; }
-  @include media-breakpoint-up(sm) { width: 50%; }
-  @include media-breakpoint-up(md) { width: 25%; }
-}*/
-=======
     position: fixed;
     display: none;
     top: 0;
@@ -213,4 +194,3 @@ body {
   @include media-breakpoint-up(md) { width: 25%; }
 }
 */
->>>>>>> validateView
