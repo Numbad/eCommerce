@@ -3,9 +3,9 @@
 angular.module('mangaDetails')
     .component('mangaDetails', {
         templateUrl: 'manga-details/manga-details.template.html',
-        controllerAs: "mdc",
-        controller: ['$routeParams', 'Manga', '$scope', '$window',
-            function MangaDetailsController($routeParams, Manga, $scope, $window) {
+        controllerAs: 'mdc',
+        controller: ['$routeParams', 'Manga', '$scope', '$window', 'toaster', 
+            function MangaDetailsController($routeParams, Manga, $scope, $window, toaster) {
                 var self = this;
                 //localStorage.setItem("shoppingList", null);
                 if(localStorage.getItem("shoppingList") == null) {
@@ -26,9 +26,13 @@ angular.module('mangaDetails')
                 
                 self.addShoppingCart = function(name, tome) {
                     console.log("Name : " + name + " & Tome : " + tome);
-                    var manga = {"name": name, "tome": tome};
-                    self.shoppingList.push(manga);
-                    localStorage.setItem("shoppingList", JSON.stringify(self.shoppingList));
+                    if(name.length != 0 && tome > 0) {
+                        var manga = {"name": name, "tome": tome};
+                        self.shoppingList.push(manga);
+                        localStorage.setItem("shoppingList", JSON.stringify(self.shoppingList));
+
+                        toaster.pop('success', 'Notificaton', name + ' - Tome ' + tome + ' a été ajouté au panier', 5000, 'trustedHtml');
+                    }
                 }
             }]
     });

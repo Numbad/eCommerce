@@ -4,5 +4,7 @@ angular.module('eCommerceApp', [
     'mangasList',
     'mangaDetails',
     'services',
+    'ngAnimate',
+    'toaster',
     'ngRoute'
 ]);
