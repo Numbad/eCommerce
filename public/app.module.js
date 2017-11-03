@@ -4,5 +4,6 @@ angular.module('eCommerceApp', [
     'mangasList',
     'mangaDetails',
     'services',
-    'ngRoute'
+    'ngRoute',
+    'sideBar',
 ]);

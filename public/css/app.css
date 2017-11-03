@@ -1,23 +1,24 @@
 html {
-  background-color: #222;
+    background-color: #222;
 }
 
 body {
-  background-color: #222;
+    background-color: #222;
 }
 
-#ng_view{
-  margin-top: 30px;
+#ng_view {
+    margin-top: 40px;
 }
 
 .container {
-  width: 100%;
-  padding: 1rem;
-  background-image: radial-gradient(#555, #222);
-  color: white;
-  border: 3px red solid;
-  border-radius: 5px;
+    width: 100%;
+    padding: 1rem;
+    background-image: radial-gradient(#555, #222);
+    color: white;
+    border: 3px red solid;
+    border-radius: 5px;
 }
+
 
 /* LIST MANGAS */
 
@@ -28,150 +29,164 @@ body {
 }
 
 .mangasList a {
-  color: white;
+    color: white;
 }
-  
+
 .mangasList img {
-  width: 10rem;
-  height: 15rem;
-  border: 2px white solid;
-  border-radius: 2px;
+    width: 10rem;
+    height: 15rem;
+    border: 2px white solid;
+    border-radius: 2px;
 }
 
 .mangasList .price {
-  float: right;
+    float: right;
 }
+
 
 /* DETAILS MANGAS */
 
 .detailsManga h1 {
-  font-size: 3rem;
-  font-weight: bold;
-  font-style: italic;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
 }
 
 .detailsManga h2 {
-  font-size: 1.5rem;
-  border-top: 2px white solid;
-  padding-top: 1rem;
-  font-style: italic;
+    font-size: 1.5rem;
+    border-top: 2px white solid;
+    padding-top: 1rem;
+    font-style: italic;
 }
 
 .infosManga {
-  display: inline-block;
-  margin: 1rem 0 1rem 0.5rem;
+    display: inline-block;
+    margin: 1rem 0 1rem 0.5rem;
 }
 
 .infosManga img {
-  float: left;
-  width: 10rem;
-  height: 15rem;
-  border: 2px white solid;
-  border-radius: 2px;
+    float: left;
+    width: 10rem;
+    height: 15rem;
+    border: 2px white solid;
+    border-radius: 2px;
 }
 
 .infosManga p {
-  float: left;
-  margin-left: 1rem;
+    float: left;
+    margin-left: 1rem;
 }
 
 .properties {
-  font-weight: bold;
-  margin: 0;
-  font-size: 0.9rem;
+    font-weight: bold;
+    margin: 0;
+    font-size: 0.9rem;
 }
 
 .values {
-  font-style: italic;
-  margin: 0;
-  font-size: 0.8rem;
+    font-style: italic;
+    margin: 0;
+    font-size: 0.8rem;
 }
 
 .pPrice {
-  float: right;
+    float: right;
 }
 
 .buttonBuy {
-  border: 1px white solid;
-  border-radius: 50px;
-  background-color: #AAA;
+    border: 1px white solid;
+    border-radius: 50px;
+    background-color: #AAA;
 }
 
 .buttonBuy img {
-  width: 1.1rem;
-  height: 1.1rem;
+    width: 1.1rem;
+    height: 1.1rem;
 }
 
 .summary {
-  padding: 0 0.5rem 1rem 0.5rem;
-  border-bottom: 2px white solid;
-  margin-bottom: 1rem;
+    padding: 0 0.5rem 1rem 0.5rem;
+    border-bottom: 2px white solid;
+    margin-bottom: 1rem;
 }
+
+
 /*      */
 
 .navbar-side {
-  height: 100%;
-  width: 25%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  padding: 0;
-  list-style: none;
-  border-right: 2px solid #ccc; 
-  background-image: radial-gradient(#555, #222);
-  z-index: 1000;
-  }
-
-.navbar-side-item {
-  padding: 1.5rem 0;
-  margin: 0;
-  border-bottom: 2px solid #ccc;
-  height: 5rem;
+    height: 100%;
+    width: 25%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 0;
+    list-style: none;
+    border-left: 2px solid #ccc;
+    background-image: radial-gradient(#555, #222);
+    z-index: 1000;
 }
 
-.navbar-side :first-child{
-  text-align: center;
-  background-color:rgb(83, 82, 82);
-  border-bottom: none;
+.navbar-side-item {
+    padding: 1.5rem 0;
+    margin: 0;
+    border-bottom: 2px solid #ccc;
+    height: 5rem;
+}
+
+.navbar-side-item:first-child {
+    text-align: center;
+    background-color: rgb(83, 82, 82);
+    border-bottom: none;
 }
 
 .side-link {
-  padding-left: 2rem;
-  text-decoration: none;
+    padding-left: 2rem;
+    text-decoration: none;
 }
-.navbar-side-item a{
-  color: white;
-  text-decoration: none;
-}
-.navbar-side {
--webkit-transform: translateX(100%);
--ms-transform: translateX(100%);
-transform: translateX(-100%);
--webkit-transition: 300ms ease;
-transition: 300ms ease;
-}
-.reveal {
-  -webkit-transform: translateX(0%);
-  -ms-transform: translateX(0%);
-  transform: translateX(0%);
-  -webkit-transition: 300ms ease;
-  transition: 300ms ease;
-}
-.overlay {
-  position: fixed;
-  display: none;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  cursor: pointer;
-  background-color: rgb(101, 117, 124);
-  opacity: 0.6;
-  z-index: 990;
 
+.navbar-side-item a {
+    color: white;
+    text-decoration: none;
 }
-.navbar-side .container{
+
+.navbar-side {
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+}
+
+.reveal {
+    -webkit-transform: translateX(0%);
+    -ms-transform: translateX(0%);
+    transform: translateX(0%);
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+}
+
+.overlay {
+    position: fixed;
+    display: none;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    cursor: pointer;
+    background-color: rgb(101, 117, 124);
+    opacity: 0.6;
+    z-index: 990;
+}
+
+
+/*
+#navbarSideButton{
+  @include pull-right;
+}
+
+.navbar, .container{
   @include media-breakpoint-up(xs) { width: 85%; }
   @include media-breakpoint-up(sm) { width: 50%; }
   @include media-breakpoint-up(md) { width: 25%; }
 }
+*/
