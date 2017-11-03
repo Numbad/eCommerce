@@ -1,6 +1,7 @@
 [
     {
         "id": "mushoku-tensei",
+        "name": "Mushoku Tensei",
         "release": "06/2017",
         "price": "7.50",
         "variety": "seinen",
@@ -23,6 +24,10 @@
             {
                 "numero": 3,
                 "urlImage": "img/mangas/mushoku-tensei/mushoku-tensei.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/mushoku-tensei/mushoku-tensei.4.jpg"
             }
         ]
     }, 

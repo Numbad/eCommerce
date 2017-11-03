@@ -70,6 +70,14 @@ body {
   border-radius: 2px;
 }
 
+.infosManga img:hover {
+  cursor: pointer;
+}
+
+.volumesManga img:hover {
+  cursor: pointer;
+}
+
 .infosManga p {
   float: left;
   margin-left: 1rem;
@@ -87,9 +95,10 @@ body {
   font-size: 0.8rem;
 }
 
-.pPrice {
+/*#shoppingList {
   float: right;
-}
+  margin-right: 1rem;
+}*/
 
 .buttonBuy {
   border: 1px white solid;
@@ -170,8 +179,8 @@ transition: 300ms ease;
   z-index: 990;
 
 }
-.navbar-side .container{
+/*.navbar-side .container{
   @include media-breakpoint-up(xs) { width: 85%; }
   @include media-breakpoint-up(sm) { width: 50%; }
   @include media-breakpoint-up(md) { width: 25%; }
-}
+}*/

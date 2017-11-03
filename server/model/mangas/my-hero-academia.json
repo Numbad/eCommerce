@@ -1,6 +1,7 @@
 [
     {
         "id": "my-hero-academia",
+        "name": "My Hero Academia",
         "release": "04/2016",
         "price": "6.60",
         "variety": "shonen",

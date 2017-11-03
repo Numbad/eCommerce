@@ -1,6 +1,7 @@
 [
     {
         "id": "food-wars",
+        "name": "Food Wars",
         "release": "09/2014",
         "price": "6.99",
         "variety": "shonen",
@@ -87,6 +88,10 @@
             {
                 "numero": 19,
                 "urlImage": "img/mangas/food-wars/food-wars.19.jpg"
+            },
+            {
+                "numero": 20,
+                "urlImage": "img/mangas/food-wars/food-wars.20.jpg"
             }
         ]
     }, 

@@ -1,6 +1,7 @@
 [
     {
         "id": "black-clover",
+        "name": "Black Clover",
         "release": "09/2016",
         "price": "6.79",
         "variety": "shonen",
@@ -43,6 +44,10 @@
             {
                 "numero": 8,
                 "urlImage": "img/mangas/black-clover/black-clover.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/black-clover/black-clover.9.jpg"
             }
         ]
     }, 

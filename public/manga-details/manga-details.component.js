@@ -7,6 +7,14 @@ angular.module('mangaDetails')
         controller: ['$routeParams', 'Manga', '$scope', '$window',
             function MangaDetailsController($routeParams, Manga, $scope, $window) {
                 var self = this;
+                //localStorage.setItem("shoppingList", null);
+                if(localStorage.getItem("shoppingList") == null) {
+                    self.shoppingList = [];
+                    localStorage.setItem("shoppingList", JSON.stringify(self.shoppingList));
+                }
+                else 
+                    self.shoppingList = JSON.parse(localStorage.getItem("shoppingList"));
+                    
                 Manga.getManga($routeParams.mangaId)
                     .then(function onSuccess(response) {
                         //console.log(response.data.manga[0]);
@@ -15,19 +23,12 @@ angular.module('mangaDetails')
                     .catch(function onError() {
                         console.log("Erreur de récupération du manga : " + $routeParams.mangaId);
                     });
-                self.submit = function () {
-                    if ($window.localStorage.getItem("basket") == null) {
-                        var a = [];
-                        a.push($scope.manga);
-                        $window.localStorage.setItem("basket", JSON.stringify(a));
-                    }
-                    else {
-                        var valu = JSON.parse($window.localStorage.getItem("basket"));
-                        valu.push($scope.manga);
-                        $window.localStorage.setItem("basket", JSON.stringify(valu));
-                    }
-                    console.log(JSON.parse($window.localStorage.getItem("basket")));
-
+                
+                self.addShoppingCart = function(name, tome) {
+                    console.log("Name : " + name + " & Tome : " + tome);
+                    var manga = {"name": name, "tome": tome};
+                    self.shoppingList.push(manga);
+                    localStorage.setItem("shoppingList", JSON.stringify(self.shoppingList));
                 }
             }]
     });

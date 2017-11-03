@@ -43,10 +43,10 @@
     },
     {
         "age" : 7,
-        "id": "magi-labyrinth-of-magic",
+        "id": "magi-the-labyrinth-of-magic",
         "name": "Magi - The Labyrinth of Magic",
         "price": "6.80",
-        "urlImage": "img/mangas/magi-labyrinth-of-magic/magi-labyrinth-of-magic.1.jpg"
+        "urlImage": "img/mangas/magi-the-labyrinth-of-magic/magi-the-labyrinth-of-magic.1.jpg"
     },
     {
         "age" : 8,
@@ -170,7 +170,7 @@
     {
         "age": 25,
         "id": "re-zero-arc-one",
-        "name": "Re:Zero - Re:Life in a different world from zero",
+        "name": "Re:Zero - Re:Life in a different world from zero [Arc 1]",
         "price": "6.99",
         "urlImage": "img/mangas/re-zero-arc-one/re-zero-arc-one.1.jpg"
     },
@@ -191,7 +191,7 @@
     {
         "age": 28,
         "id": "re-zero-arc-two",
-        "name": "Re:Zero - Re:Life in a different world from zero",
+        "name": "Re:Zero - Re:Life in a different world from zero [Arc 2]",
         "price": "6.99",
         "urlImage": "img/mangas/re-zero-arc-two/re-zero-arc-two.1.jpg"
     },

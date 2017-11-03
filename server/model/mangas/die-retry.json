@@ -1,6 +1,7 @@
 [
     {
         "id": "die-retry",
+        "name": "Die&Retry",
         "release": "05/2017",
         "price": "7.99",
         "variety": "shonen",
@@ -19,6 +20,10 @@
             {
                 "numero": 2,
                 "urlImage": "img/mangas/die-retry/die-retry.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/die-retry/die-retry.3.jpg"
             }
         ]
     }, 
