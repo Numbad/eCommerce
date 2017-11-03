@@ -1,6 +1,6 @@
 <ul>
     <li class="mangasList" ng-repeat="infosManga in manga.volumes">
-        <img src="{{infosManga.urlImage}}" alt="{{manga.name}}" ng-click="mdc.addShoppingCart(manga.name, infosManga.numero)" />
+        <img src="{{infosManga.urlImage}}" alt="{{manga.name}}" ng-click="mdc.addShoppingCart(manga, infosManga.numero)" />
         <p>
             <label class="price">{{manga.price}}€</label>
         </p>
