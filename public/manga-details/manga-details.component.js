@@ -31,7 +31,7 @@ angular.module('mangaDetails')
                         self.shoppingList.push(manga);
                         localStorage.setItem("shoppingList", JSON.stringify(self.shoppingList));
 
-                        toaster.pop('success', 'Notificaton', name + ' - Tome ' + tome + ' a été ajouté au panier', 5000, 'trustedHtml');
+                        toaster.pop('success', name + ' - Tome ' + tome + ' a été ajouté au panier');
                     }
                 }
             }]
