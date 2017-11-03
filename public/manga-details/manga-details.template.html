@@ -22,12 +22,7 @@
         {{manga.summary}}
     </p>
 
-    <div class="volumesManga">
-        <ul>
-            <li class="mangasList" ng-repeat="infosManga in manga.volumes"><!-- | orderBy: infosManga.volumes.numero"> -->
-                <img src="{{infosManga.urlImage}}" alt="{{manga.name}}" />
-                <p><label class="price">{{manga.price}}€</label></p>
-            </li>
-        </ul>
+    <div class="volumesManga" ng-include="'manga-details/manga-img-view.html'">
+        
     </div>
 </div>
