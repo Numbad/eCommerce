@@ -1,0 +1,23 @@
+<div class="overlay">
+</div>
+<div id="">
+    <button class="navbar-toggler float-sm-right" id="navbarSideButton" type="button">
+        <img src="img/basket.png" height="40px" width="40px">
+    </button>
+    <ul class="navbar-side" id="navbarSide" ng-repeat="manga in sbc.mangas">
+        <li class="navbar-side-item" ng-if="$index == 0" id="nac">
+            <img src="img/shoppingcart.png" height="30px" width="30px"> Panier
+        </li>
+        <li class="navbar-side-item">
+            <a ng-href="#!/validate" class="side-link">Test1 :)</a>
+        </li>
+    </ul>
+    <ul class="navbar-side" id="navbarSide" ng-if="sbc.mangas.length == 0" >
+            <li class="navbar-side-item" >
+                <img src="img/shoppingcart.png" height="30px" width="30px"> Panier
+            </li>
+            <li class="text-center">
+                Votre Panier est vide
+            </li>
+        </ul>
+</div>

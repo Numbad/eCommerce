@@ -6,5 +6,6 @@ angular.module('eCommerceApp', [
     'services',
     'ngAnimate',
     'toaster',
-    'ngRoute'
+    'ngRoute',
+    'sideBar'
 ]);
