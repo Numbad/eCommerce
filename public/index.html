@@ -14,18 +14,7 @@
 <body>
 
   <div class="container">
-    <div class="overlay"></div>
-    <button class="navbar-toggler float-xs-right" id="navbarSideButton" type="button">
-      &#9776;
-    </button>
-    <ul class="navbar-side" id="navbarSide">
-      <li class="navbar-side-item">
-        <img src="img/favicon.ico" height="20px" width="20px"> E-Commerce
-      </li>
-      <li class="navbar-side-item">
-        <a ng-href="#!/validate" class="side-link">Signup</a>
-      </li>
-    </ul>
+    <div ng-include="'nav.html'"></div>
     <div ng-view></div>
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
