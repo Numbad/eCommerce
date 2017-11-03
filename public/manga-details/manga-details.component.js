@@ -4,9 +4,10 @@ angular.module('mangaDetails')
     .component('mangaDetails', {
         templateUrl: 'manga-details/manga-details.template.html',
         controllerAs: 'mdc',
-        controller: ['$routeParams', 'Manga', '$scope', '$window', 'toaster', 
-            function MangaDetailsController($routeParams, Manga, $scope, $window, toaster) {
+        controller: ['$routeParams', 'Manga', '$window', 'toaster', 
+            function MangaDetailsController($routeParams, Manga, $window, toaster) {
                 var self = this;
+                self.manga = null;
                 //localStorage.setItem("shoppingList", null);
                 if(localStorage.getItem("shoppingList") == null) {
                     self.shoppingList = [];
@@ -17,7 +18,7 @@ angular.module('mangaDetails')
                     
                 Manga.getManga($routeParams.mangaId)
                     .then(function onSuccess(response) {
-                        $scope.manga = response.data.manga[0];
+                        self.manga = response.data.manga[0];
                     })
                     .catch(function onError() {
                         console.log("Erreur de récupération du manga : " + $routeParams.mangaId);

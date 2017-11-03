@@ -11,7 +11,7 @@
 </p>
 
 <ul>
-    <li class="mangasList" ng-repeat="manga in mangas | filter: mlc.searchManga | orderBy: mlc.orderMangas">
+    <li class="mangasList" ng-repeat="manga in mlc.mangas | filter: mlc.searchManga | orderBy: mlc.orderMangas">
         <a href="#!/mangas/{{manga.id}}">
             <img src="{{manga.urlImage}}" alt="{{manga.name}}" /><br />
             <label class="price">{{manga.price}}€</label>
