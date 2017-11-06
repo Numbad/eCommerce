@@ -14,7 +14,7 @@ angular.module('services.manga')
             }
 
             function getMangaById(mangaId) {
-                return $http.get("https://radiant-thicket-74699.herokuapp.com/mangas" + mangaId);
+                return $http.get("https://radiant-thicket-74699.herokuapp.com/mangas/" + mangaId);
             }
 
         }
