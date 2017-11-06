@@ -1,38 +1,26 @@
-<toaster-container toaster-options="{'time-out': 2000, 'position-class': 'toast-top-right'}"></toaster-container>
+<toaster-container toaster-options="{'time-out': 2000, 'position-class': 'toast-bottom-right'}"></toaster-container>
 
 <div class="detailsManga">
-    <h1>{{manga.name}}</h1>
+    <h1>{{mdc.manga.name}}</h1>
 
     <div class="infosManga">
-        <img src="{{manga.volumes[0].urlImage}}" alt="{{manga.name}}"/>
+        <img src="{{mdc.manga.volumes[0].urlImage}}" alt="{{mdc.manga.name}}"/>
         <p>
-            <label class="properties">Titre :</label> <label class="values">{{manga.name}}</label><br />
-            <label class="properties">Date de Sortie :</label> <label class="values">{{manga.release}}</label><br />
-            <label class="properties">Type :</label> <label class="values">{{manga.variety}}</label><br />
-            <label class="properties">Genre :</label> <label class="values">{{manga.type}}</label><br />
-            <label class="properties">Scénario :</label> <label class="values">{{manga.scenario}}</label><br />
-            <label class="properties">Editeur VF :</label> <label class="values">{{manga.editorVf}}</label><br />
-            <label class="properties">Editeur VO :</label> <label class="values">{{manga.editorVo}}</label><br />
-            <label class="properties">Dessin :</label> <label class="values">{{manga.design}}</label><br />
-            <label class="properties">Prix :</label> <label class="values">{{manga.price}}</label>
+            <label class="properties">Titre :</label> <label class="values">{{mdc.manga.name}}</label><br />
+            <label class="properties">Date de Sortie :</label> <label class="values">{{mdc.manga.release}}</label><br />
+            <label class="properties">Type :</label> <label class="values">{{mdc.manga.variety}}</label><br />
+            <label class="properties">Genre :</label> <label class="values">{{mdc.manga.type}}</label><br />
+            <label class="properties">Scénario :</label> <label class="values">{{mdc.manga.scenario}}</label><br />
+            <label class="properties">Editeur VF :</label> <label class="values">{{mdc.manga.editorVf}}</label><br />
+            <label class="properties">Editeur VO :</label> <label class="values">{{mdc.manga.editorVo}}</label><br />
+            <label class="properties">Dessin :</label> <label class="values">{{mdc.manga.design}}</label><br />
+            <label class="properties">Prix :</label> <label class="values">{{mdc.manga.price}}</label>
         </p>
     </div>
-<!--
-    <fieldset id="shoppingList">
-    <legend>Panier</legend>
-        <ul>
-            <li ng-repeat="manga in mdc.shoppingList">{{manga.name}} - Tome {{manga.tome}}</li>
-        </ul>
-    </fieldset>
--->
-
-<!-- 
-    <p class="pPrice">Prix : {{manga.price}} <button class="buttonBuy" ng-click="mdc.submit()"><img src="img/shoppingcart.png" alt="panier"/></button></p>
--->
 
     <h2>Résumé :</h2>
     <p class="summary">
-        {{manga.summary}}
+        {{mdc.manga.summary}}
     </p>
 
     <div class="volumesManga" ng-include="'manga-details/manga-img-view.html'">

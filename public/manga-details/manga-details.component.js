@@ -4,12 +4,21 @@ angular.module('mangaDetails')
     .component('mangaDetails', {
         templateUrl: 'manga-details/manga-details.template.html',
         controllerAs: 'mdc',
-        controller: ['$routeParams', 'Manga', '$scope', '$window', 'toaster',
-            function MangaDetailsController($routeParams, Manga, $scope, $window, toaster) {
+
+        controller: ['$routeParams', 'Manga', '$window', 'toaster',
+            function MangaDetailsController($routeParams, Manga, $window, toaster) {
                 var self = this;
+                self.manga = null;
+                //localStorage.setItem("shoppingList", null);
+                if (localStorage.getItem("shoppingList") == null) {
+                    self.shoppingList = [];
+                    localStorage.setItem("shoppingList", JSON.stringify(self.shoppingList));
+                }
+                else
+                    self.shoppingList = JSON.parse(localStorage.getItem("shoppingList"));
                 Manga.getManga($routeParams.mangaId)
                     .then(function onSuccess(response) {
-                        $scope.manga = response.data.manga[0];
+                        self.manga = response.data.manga[0];
                     })
                     .catch(function onError() {
                         console.log("Erreur de récupération du manga : " + $routeParams.mangaId);
@@ -22,10 +31,10 @@ angular.module('mangaDetails')
                             shoppingList = JSON.parse(localStorage.getItem('shoppingList'));
 
                         var obj = {
-                            'id': manga.id, 
+                            'id': manga.id,
                             'name': manga.name,
                             'img': manga.volumes[tome - 1].urlImage,
-                            'tome':tome,
+                            'tome': tome,
                             'price': manga.price
                         }
                         shoppingList.push(obj);
