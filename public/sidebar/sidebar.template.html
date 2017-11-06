@@ -10,7 +10,9 @@
     </li>
     <li class="navbar-side-item" ng-repeat="manga in sbc.mangas track by $index">
         <a class="side-link">
-            <img src="{{manga.img}}" alt="" /> {{manga.name}} - Tome {{manga.tome}}
+            <img src="{{manga.img}}" alt="" />
+            <label ng-if="manga.name.length > 9">{{manga.name.substring(0, 9)}}</label>
+            <label ng-if="manga.name.length <= 9">{{manga.name}}</label> - Tome {{manga.tome}}
             <img src="img/delete.png" alt="Supprimer" id="deleteImg" ng-click="sbc.deleteFromSCart(manga)" />
         </a>
     </li>
@@ -29,5 +31,5 @@
         Votre Panier est vide
     </li>
 </ul>
-    <a class="navbar-brand" ng-href="#!/mangas" style="color:white;border:2px dashed;padding:5px">HOME</a>
+<a class="navbar-brand" ng-href="#!/mangas" style="color:white;border:2px dashed;padding:5px">HOME</a>
 </nav>
