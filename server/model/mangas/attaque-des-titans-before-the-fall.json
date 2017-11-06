@@ -1,0 +1,65 @@
+[
+    {
+        "id": "attaque-des-titans-before-the-fall",
+        "name": "L'Attaque des Titans : Before The Fall",
+        "release": "10/2014",
+        "price": "6.95",
+        "variety": "shonen",
+        "type": "Avanture, Suspense",
+        "design": "SHIKI Satoshi",
+        "scenario": "ISAYAMA Hajime, SUZUKAZE Ryô",
+        "editorVo" : "Kôdansha",
+        "editorVf" : "Pika",
+        "advisedAge" : 14,
+        "summary": "La soudaine apparition des Titans conduit les Hommes à construire de solides remparts derrière lesquels ils se retranchent pour échapper à l’extermination. 30 ans après la construction de ces murs, un monstre parvient à pénétrer dans le district de Shiganshina, où il effectue un véritable massacre. Dans les rejets qu’il laisse de son festin est retrouvée une femme enceinte. Et, contre toute attente, son bébé a survécu...",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.11.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "id": "darwins-game",
+        "name": "Darwin's Game",
+        "release": "08/2014",
+        "price": "7.65",
+        "variety": "shonen",
+        "type": "Suspense, Thriller",
+        "design": "FLIPFLOPs",
+        "scenario": "FLIPFLOPs",
+        "editorVo" : "Akita Shoten",
+        "editorVf" : "Ki-oon",
+        "advisedAge" : 14,
+        "summary": "La vie de Kaname Sudo bascule le jour où ces quelques mots a priori inoffensifs s’affichent sur son portable. Il a le malheur d’accepter l’invitation. Aussitôt mordu au cou par un serpent virtuel surgi de l’écran, il est désormais l’esclave d’un jeu impitoyable, le 'Darwin’s Game', véritable arène urbaine dans laquelle des participants interconnectés via un réseau social s’affrontent dans des duels à mort. Très vite, le lycéen doit se rendre à l’évidence : même s’il essaie de se soustraire au jeu, ses adversaires, attirés par l’appât du gain et le frisson du combat, sont prêts à tout pour le retrouver…",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/darwins-game/darwins-game.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/darwins-game/darwins-game.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/darwins-game/darwins-game.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/darwins-game/darwins-game.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/darwins-game/darwins-game.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/darwins-game/darwins-game.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/darwins-game/darwins-game.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/darwins-game/darwins-game.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/darwins-game/darwins-game.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/darwins-game/darwins-game.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/darwins-game/darwins-game.11.jpg"
+            },
+            {
+                "numero": 12,
+                "urlImage": "img/mangas/darwins-game/darwins-game.12.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

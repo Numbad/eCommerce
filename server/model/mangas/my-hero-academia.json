@@ -1,0 +1,61 @@
+[
+    {
+        "id": "my-hero-academia",
+        "name": "My Hero Academia",
+        "release": "04/2016",
+        "price": "6.60",
+        "variety": "shonen",
+        "type": "Aventure, Fantastique",
+        "design": "HORIKOSHI Kôhei",
+        "scenario": "HORIKOSHI Kôhei",
+        "editorVo" : "Shûeisha",
+        "editorVf" : "ki-oon",
+        "advisedAge" : 10,
+        "summary": "Dans un monde où 80 % de la population possède un super‑pouvoir appelé alter, les héros font partie de la vie quotidienne. Et les super‑vilains aussi ! Face à eux se dresse l’invincible All Might, le plus puissant des héros ! Le jeune Izuku Midoriya en est un fan absolu. Il n’a qu’un rêve : entrer à la Hero Academia pour suivre les traces de son idole. Le problème, c’est qu’il fait partie des 20 % qui n’ont aucun pouvoir... Son destin est bouleversé le jour où sa route croise celle d’All Might en personne ! Ce dernier lui offre une chance inespérée de voir son rêve se réaliser. Pour Izuku, le parcours du combattant ne fait que commencer !",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/my-hero-academia/my-hero-academia.10.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

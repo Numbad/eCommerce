@@ -1,0 +1,29 @@
+[
+    {
+        "id": "re-zero-arc-one",
+        "name": "Re:Zero - Re:Life in a different world from zero [Arc 1]",
+        "release": "04/2017",
+        "price": "6.99",
+        "variety": "shonen",
+        "type": "Aventure, Fantastique",
+        "design": "MATSUME Daichi",
+        "scenario": "NAGATSUKI Tappei",
+        "editorVo" : "Media Factory",
+        "editorVf" : "Otobo Manga",
+        "advisedAge" : 12,
+        "summary": "Subaru Natsuki fait la connaissance d'Émilia, une jeune lle aux longs cheveux d'argent qui l'entraîne dans une dimension peuplée de monstres et d'ennemis en tous genres particulièrement hostiles. Le jeune homme a juré de la protéger, mais il ne résiste pas longtemps dans ce monde violent où il est tué rapidement. Pourtant, il revient d'entre les morts à l'aide d'un pouvoir qui le ramènera toujours à son point de départ. Subaru entame alors un combat perpétuel dans lequel il essaie, peu à peu, de changer le futur, où chaque fois les souvenirs sont à reconstruire...",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/re-zero-arc-one/re-zero-arc-one.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/re-zero-arc-one/re-zero-arc-one.2.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

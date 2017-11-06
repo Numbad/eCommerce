@@ -1,0 +1,20 @@
+<p>Trier Par : 
+    <select ng-model="mlc.orderMangas">
+        <option value="name">Nom</option>
+        <option value="age">Date de Sortie</option>
+        <option value="price">Prix</option>
+    </select>
+</p>
+
+<p>
+    Recherche : <input ng-model="mlc.searchManga" placeholder="Rechercher un manga" />
+</p>
+
+<ul>
+    <li class="mangasList" ng-repeat="manga in mlc.mangas | filter: mlc.searchManga | orderBy: mlc.orderMangas">
+        <a href="#!/mangas/{{manga.id}}">
+            <img src="{{manga.urlImage}}" alt="{{manga.name}}" /><br />
+            <label class="price">{{manga.price}}€</label>
+        </a>
+    </li>
+</ul>

@@ -1,0 +1,97 @@
+[
+    {
+        "id": "ubel-blatt",
+        "name": "Übel Blatt",
+        "release": "07/2007",
+        "price": "7.65",
+        "variety": "seinen",
+        "type": "Aventure, Heroic-fantasy",
+        "design": "SHIONO Etorôji",
+        "scenario": "SHIONO Etorôji",
+        "editorVo" : "Square Enix",
+        "editorVf" : "Ki-oon",
+        "advisedAge" : 16,
+        "summary": "La légende raconte que pour lutter contre une terrifiante armée des ténèbres, l’empereur missionna 14 vaillants guerriers à qui il confia 14 lances sacrées. 3 d’entre eux, les glorieux guerriers sans retour, périrent au combat. 4 autres, surnommés les lances de la trahison, furent exécutés par leurs compagnons pour félonie. Les 7 derniers accomplirent leur mission et furent accueillis en héros à leur retour. Mais 20 ans plus tard, des rebelles baptisés eux aussi les lances de la trahison défient de nouveau l’autorité de l¹Empire...",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.11.jpg"
+            },
+            {
+                "numero": 12,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.12.jpg"
+            },
+            {
+                "numero": 13,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.13.jpg"
+            },
+            {
+                "numero": 14,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.14.jpg"
+            },
+            {
+                "numero": 15,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.15.jpg"
+            },
+            {
+                "numero": 16,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.16.jpg"
+            },
+            {
+                "numero": 17,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.17.jpg"
+            },
+            {
+                "numero": 18,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.18.jpg"
+            },
+            {
+                "numero": 19,
+                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.19.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

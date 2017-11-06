@@ -1,0 +1,37 @@
+[
+    {
+        "id": "mushoku-tensei",
+        "name": "Mushoku Tensei",
+        "release": "06/2017",
+        "price": "7.50",
+        "variety": "seinen",
+        "type": "Aventure, Fantastique",
+        "design": "OBATA Takeshi",
+        "scenario": "OHBA Tsugumi",
+        "editorVo" : "Media Factory",
+        "editorVf" : "Doki Doki",
+        "advisedAge" : 12,
+        "summary": "Pour ce loser anonyme, les 34 années de son existence auront été un ratage total. Lorsqu’il est renversé par un camion fou, il s’attend à finir six pieds sous terre… mais le voilà redevenu bébé ! Désormais appelé Rudeus Greyrat, Il s’est réincarné dans un monde d’épées et de sortilèges, où il va apprendre à maîtriser l’art délicat de la magie, pour lequel il semble avoir un don particulier. Car cette nouvelle vie, Rudeus est bien décidé à ne pas la gâcher ! Et cet enfant qui va grandir sous nos yeux est encore loin de se douter des dangers qu’il va bientôt rencontrer !",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/mushoku-tensei/mushoku-tensei.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/mushoku-tensei/mushoku-tensei.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/mushoku-tensei/mushoku-tensei.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/mushoku-tensei/mushoku-tensei.4.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

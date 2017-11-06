@@ -1,0 +1,73 @@
+[
+    {
+        "id": "akame-ga-kill",
+        "name": "Akame Ga Kill",
+        "release": "07/2014",
+        "price": "7.65",
+        "variety": "shonen",
+        "type": "Aventure, Fantastique",
+        "design": "TASHIRO Tetsuya",
+        "scenario": "TAKAHIRO",
+        "editorVo" : "Square Enix",
+        "editorVf" : "Kurokawa",
+        "advisedAge" : 12,
+        "summary": "Dans un monde peuplé de créatures étranges et dangereuses, Tatsumi est un jeune garçon de la campagne en quête de rêve et d’aventure. Il se rend finalement à la capitale dans le but de s’engager dans l’armée impériale pour faire fortune et sauver son village rongé par la pauvreté. Mais confronté à la réalité de la ville et à sa corruption, Tatsumi va très vite perdre ses illusions. En dépit de toute attente, sa rencontre avec la troupe de tueurs du Night Raid va changer le cours de son destin… Son nouveau but : devenir un assassin pour débarrasser la capitale des infâmes crapules qui corrompent le pays entier !",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.11.jpg"
+            },
+            {
+                "numero": 12,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.12.jpg"
+            },
+            {
+                "numero": 13,
+                "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.13.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

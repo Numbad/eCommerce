@@ -1,0 +1,37 @@
+[
+    {
+        "id": "q",
+        "name": "Q",
+        "release": "02/2016",
+        "price": "7.90",
+        "variety": "seinen",
+        "type": "Science-Fiction, Aventure",
+        "design": "SHIHIRA Tatsuya",
+        "scenario": "SHIHIRA Tatsuya",
+        "editorVo" : "Shûeisha",
+        "editorVf" : "Ki-oon",
+        "advisedAge" : 14,
+        "summary": "Voilà déjà dix ans que, dans un monde désormais en ruines, une mystérieuse sphère, Solaris, est apparue dans le ciel. Créature d’une autre dimension ou envoyé des dieux missionné pour punir les humains ? Nul ne le sait. Une seule certitude : la regarder en face provoque l’apparition immédiate sur terre d’oeufs géants qui donnent naissance en quelques heures à des monstres effrayants, les Demi, détruisant tout sur leur passage. L’humanité est réduite à vivre dans la crainte, échine courbée, et regard fixé au sol. Le jeune Rem Serizawa, voyou au grand coeur qui peine à assurer la survie du groupe d’orphelins dont il s’occupe, tombe un beau jour sur une petite fille qu’il sauve in extremis des griffes d’un de ces monstres. Mais l’enfant cache un pouvoir incroyable : c’est une extra-terrestre capable de dévorer les Demi ! Très vite, la fillette va attirer le regard et les convoitises des organisations qui luttent pour la destruction de Solaris…",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/q/q.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/q/q.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/q/q.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/q/q.4.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]

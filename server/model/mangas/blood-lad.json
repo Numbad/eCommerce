@@ -1,0 +1,89 @@
+[
+    {
+        "id": "blood-lad",
+        "name": "Blood Lad",
+        "release": "05/2012",
+        "price": "7.65",
+        "variety": "seinen",
+        "type": "Fantastique, Comédie",
+        "design": "KODAMA Yûki",
+        "scenario": "KODAMA Yûki",
+        "editorVo" : "Kadokawa Shoten",
+        "editorVf" : "Kurokawa",
+        "advisedAge" : 14,
+        "summary": "Loups-garous, zombies et autres créatures de la nuit ont toujours inspiré la terreur aux humains. Staz est un vampire, un vrai caïd qui règne sans partage sur un des quartiers des enfers. Mais plutôt que de jouer au suceur de sang, il préfère squatter sa console et collectionner les mangas. C’est un véritable Otaku, fan de la culture nippone ! Alors quand une jeune japonaise égarée débarque sur son territoire, il n’a plus qu’une idée en tête : en faire la pièce maîtresse de sa collection !",
+        "volumes": [
+            {
+                "numero": 1,
+                "urlImage": "img/mangas/blood-lad/blood-lad.1.jpg"
+            },
+            {
+                "numero": 2,
+                "urlImage": "img/mangas/blood-lad/blood-lad.2.jpg"
+            },
+            {
+                "numero": 3,
+                "urlImage": "img/mangas/blood-lad/blood-lad.3.jpg"
+            },
+            {
+                "numero": 4,
+                "urlImage": "img/mangas/blood-lad/blood-lad.4.jpg"
+            },
+            {
+                "numero": 5,
+                "urlImage": "img/mangas/blood-lad/blood-lad.5.jpg"
+            },
+            {
+                "numero": 6,
+                "urlImage": "img/mangas/blood-lad/blood-lad.6.jpg"
+            },
+            {
+                "numero": 7,
+                "urlImage": "img/mangas/blood-lad/blood-lad.7.jpg"
+            },
+            {
+                "numero": 8,
+                "urlImage": "img/mangas/blood-lad/blood-lad.8.jpg"
+            },
+            {
+                "numero": 9,
+                "urlImage": "img/mangas/blood-lad/blood-lad.9.jpg"
+            },
+            {
+                "numero": 10,
+                "urlImage": "img/mangas/blood-lad/blood-lad.10.jpg"
+            },
+            {
+                "numero": 11,
+                "urlImage": "img/mangas/blood-lad/blood-lad.11.jpg"
+            },
+            {
+                "numero": 12,
+                "urlImage": "img/mangas/blood-lad/blood-lad.12.jpg"
+            },
+            {
+                "numero": 13,
+                "urlImage": "img/mangas/blood-lad/blood-lad.13.jpg"
+            },
+            {
+                "numero": 14,
+                "urlImage": "img/mangas/blood-lad/blood-lad.14.jpg"
+            },
+            {
+                "numero": 15,
+                "urlImage": "img/mangas/blood-lad/blood-lad.15.jpg"
+            },
+            {
+                "numero": 16,
+                "urlImage": "img/mangas/blood-lad/blood-lad.16.jpg"
+            },
+            {
+                "numero": 17,
+                "urlImage": "img/mangas/blood-lad/blood-lad.17.jpg"
+            }
+        ]
+    }, 
+    {
+        
+    }
+]
