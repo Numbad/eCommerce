@@ -29,10 +29,12 @@ angular
             console.log($window.location.hash);
             $interval(refresh, 1000);
             function refresh() {
-                if (localStorage.getItem("shoppingList") != null &&  JSON.parse(localStorage.getItem("shoppingList")).length != 0)
+                if (localStorage.getItem("shoppingList") != null && JSON.parse(localStorage.getItem("shoppingList")).length != 0) {
                     if (self.mangas.length != JSON.parse(localStorage.getItem('shoppingList')).length) {
                         self.mangas = JSON.parse(localStorage.getItem('shoppingList'));
                     }
+                } else
+                    self.mangas = JSON.parse(localStorage.getItem('shoppingList'));
             }
         }
 
