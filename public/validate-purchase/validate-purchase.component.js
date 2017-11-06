@@ -20,10 +20,16 @@ angular
       $('.overlay').hide();
       $interval(refresh, 1000);
       function refresh() {
-        if (self.shoppingCart.length != JSON.parse(localStorage.getItem('shoppingList')).length) {
-          self.shoppingCart = JSON.parse(localStorage.getItem('shoppingList'));
-          self.due = getDue(self.shoppingCart).toFixed(2);
-        }
+        if (localStorage.getItem("shoppingList") != null && JSON.parse(localStorage.getItem("shoppingList")).length != 0)
+          if (self.shoppingCart.length != JSON.parse(localStorage.getItem('shoppingList')).length) {
+            self.shoppingCart = JSON.parse(localStorage.getItem('shoppingList'));
+            self.due = getDue(self.shoppingCart).toFixed(2);
+          }
+      }
+      self.clear = function () {
+        localStorage.setItem('shoppingList', JSON.stringify([]));
+        self.shoppingCart = JSON.parse(localStorage.getItem('shoppingList'));
+        self.due = 0;
       }
     }
   });

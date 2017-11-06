@@ -11,4 +11,5 @@ $(document).ready(function () {
         $('#navbarSide').removeClass('reveal');
         $('.overlay').hide();
     });
+
 });
