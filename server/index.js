@@ -21,6 +21,6 @@ app.get("/mangas/:mangaId", (req, res) => {
     res.send(JSON.stringify({status: 200, manga: mangaById}));
 });
 
-app.listen(port || process.env.PORT,function(){
+app.listen(process.env.PORT ||port,function(){
     console.log("server running");
 });
