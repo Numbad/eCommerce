@@ -1,0 +1,92 @@
+<div class="row">
+    <div class="col-8">
+        <h4>PANIER
+            <font id="fontCard">({{vpc.shoppingCart.length}} produits)</font>
+        </h4>
+        <div class="card" id="cardLeft" ng-repeat="manga in vpc.shoppingCart">
+            <div class="card" >
+                <div class="row">
+                    <div class="col">
+                        <img src="{{manga.img}}" height="90px" width="70px">
+                    </div>
+                    <div class="col-6">
+                        <label  id="labCard">{{manga.name}}</label>
+                        <br>
+                        <font id="fontCard">Tome: {{manga.tome}}</font>
+                    </div>
+                    <div class="col">
+                        <font id="fontCard">{{manga.price}}€</font>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-4">
+        <h4>Récapitulatif</h4>
+        <div class="card" id="cardRight">
+            <div class="card" >
+                <div class="row">
+                    <div class="col">
+                        <label id="labCard">Panier ({{vpc.shoppingCart.length}})</label>
+                    </div>
+                    <div class="col">
+                        <font id="fontCard">{{vpc.due}}€</font>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label id="labCard">Frais de livraison éstimé</label>
+                    </div>
+                    <div class="col">
+                        <font id="fontCard">Gratuit</font>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label id="labCard">Total</label>
+                    </div>
+                    <div class="col">
+                        <font id="fontCard">{{vpc.due}}€</font>
+                    </div>
+                </div>
+                <div class="row" ng-if="vpc.shoppingCart.length != 0">
+                    <button type="button" class="btn btn-success btn-lg btn-block" data-toggle="modal" data-target="#confirmModal">Valider mes achats</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="confirmModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h4 class="modal-title" id="modalLabel">Validation</h4>
+            </div>
+            <div class="modal-body" >
+                Confirmez vous vos achats ?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-dismiss="modal" data-toggle="modal" data-target="#flipFlop">Oui</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Annuler</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="flipFlop" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" >
+            <div class="modal-header">
+                <h4 class="modal-title" id="modalLabel">Validation</h4>
+            </div>
+            <div class="modal-body" >
+                Achats Effectué Avec Succés !
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-dismiss="modal">Ok</button>
+            </div>
+        </div>
+    </div>
+</div>

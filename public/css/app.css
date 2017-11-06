@@ -73,11 +73,11 @@ body {
 }
 
 .infosManga img:hover {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .volumesManga img:hover {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .infosManga p {
@@ -128,6 +128,7 @@ body {
     border-left: 2px solid #ccc;
     background-image: radial-gradient(#555, #222);
     z-index: 1000;
+    overflow-y: scroll;
 }
 
 .navbar-side-item {
@@ -143,9 +144,35 @@ body {
     border-bottom: none;
 }
 
+.navbar-side-item:last-child {
+    text-align: center;
+    color: rgb(45, 49, 43);
+    font-weight: bold;
+    background-color: rgb(165, 238, 191);
+    border-bottom: none;
+}
+
+#close {
+    cursor: pointer;
+}
+
 .side-link {
     padding-left: 2rem;
     text-decoration: none;
+    font-size: 13px;
+}
+
+.side-link :first-child {
+    width: 2rem;
+    height: 3rem;
+}
+
+#deleteImg {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin-right: 10px;
+    cursor: pointer;
 }
 
 .navbar-side-item a {
@@ -182,15 +209,29 @@ body {
     z-index: 990;
 }
 
-
-/*
-#navbarSideButton{
-  @include pull-right;
+.card {
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(175, 175, 175));
+    padding:20px;
 }
 
-.navbar, .container{
-  @include media-breakpoint-up(xs) { width: 85%; }
-  @include media-breakpoint-up(sm) { width: 50%; }
-  @include media-breakpoint-up(md) { width: 25%; }
+#cardLeft{
+    max-width: 40rem;
+    margin-bottom:10px;
 }
-*/
+
+#cardRight{
+    max-width: 45rem;
+    margin-bottom:10px;
+}
+
+#labCard{
+    color: rgb(43, 43, 43);
+    font-weight: bold;
+}
+
+#fontCard{
+    color:gray;
+}
+.modal-content{
+    background-image: radial-gradient(#555, #222);
+}

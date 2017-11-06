@@ -7,7 +7,7 @@ $(document).ready(function () {
         $('#navbarSide').removeClass('reveal');
         $('.overlay').hide();
     });
-    $('.side-link').on('click', function () {
+    $('#close').on('click', function () {
         $('#navbarSide').removeClass('reveal');
         $('.overlay').hide();
     });

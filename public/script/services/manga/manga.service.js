@@ -1,11 +1,11 @@
 'use strict';
 
 angular.module('services.manga')
-    .factory('Manga', ['$http', 
-        function($http) {
+    .factory('Manga', ['$http',
+        function ($http) {
             var service = {
-                getAllMangas:getAll,
-                getManga:getMangaById
+                getAllMangas: getAll,
+                getManga: getMangaById
             }
             return service;
 
@@ -14,8 +14,8 @@ angular.module('services.manga')
             }
 
             function getMangaById(mangaId) {
-                //console.log(mangaId);
                 return $http.get("http://localhost:3000/mangas/" + mangaId);
             }
+
         }
     ]);
