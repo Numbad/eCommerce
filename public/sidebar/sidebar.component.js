@@ -26,7 +26,6 @@ angular
                     $('.overlay').hide();
                 }
             }
-            console.log($window.location.hash);
             $interval(refresh, 1000);
             function refresh() {
                 if (localStorage.getItem("shoppingList") != null && JSON.parse(localStorage.getItem("shoppingList")).length != 0) {
