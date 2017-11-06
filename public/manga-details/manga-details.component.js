@@ -9,7 +9,6 @@ angular.module('mangaDetails')
             function MangaDetailsController($routeParams, Manga, $window, toaster) {
                 var self = this;
                 self.manga = null;
-                //localStorage.setItem("shoppingList", null);
                 if (localStorage.getItem("shoppingList") == null) {
                     self.shoppingList = [];
                     localStorage.setItem("shoppingList", JSON.stringify(self.shoppingList));
