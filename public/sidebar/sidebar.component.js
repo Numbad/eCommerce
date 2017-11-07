@@ -26,6 +26,21 @@ angular
                     $('.overlay').hide();
                 }
             }
+            var navButton = document.getElementById('navbarSideButton');
+            navButton.addEventListener('click', function () {
+                document.getElementById('navbarSide').classList.add("reveal");
+                document.querySelector('.overlay').style.display = 'block';
+                var close = document.querySelector('#close');
+                close.addEventListener('click', function () {
+                    hide();
+                });
+            });
+            var overlay = document.querySelector('.overlay');
+            overlay.addEventListener('click', function () {
+                hide();
+            });
+
+
             $interval(refresh, 1000);
             function refresh() {
                 if (localStorage.getItem("shoppingList") != null && JSON.parse(localStorage.getItem("shoppingList")).length != 0) {
@@ -34,6 +49,10 @@ angular
                     }
                 } else
                     self.mangas = JSON.parse(localStorage.getItem('shoppingList'));
+            }
+            function hide() {
+                document.getElementById('navbarSide').classList.remove("reveal");
+                document.querySelector('.overlay').style.display = 'none';
             }
         }
 

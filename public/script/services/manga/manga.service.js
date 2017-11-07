@@ -10,11 +10,11 @@ angular.module('services.manga')
             return service;
 
             function getAll() {
-                return $http.get("https://radiant-thicket-74699.herokuapp.com/mangas");
+                return $http.get("http://localhost:3000/mangas");
             }
 
             function getMangaById(mangaId) {
-                return $http.get("https://radiant-thicket-74699.herokuapp.com/mangas/" + mangaId);
+                return $http.get("http://localhost:3000/mangas/" + mangaId);
             }
 
         }
