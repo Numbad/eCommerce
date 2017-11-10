@@ -4,202 +4,202 @@
         "id": "dreamland",
         "name": "Dreamland",
         "price": "6.95",
-        "urlImage": "img/mangas/dreamland/dreamland.1.jpg"
+        "urlImage": "assets/img/mangas/dreamland/dreamland.1.jpg"
     },
     {
         "age" : 2,
         "id": "ubel-blatt",
         "name": "Übel Blatt",
         "price": "7.65",
-        "urlImage": "img/mangas/ubel-blatt/ubel-blatt.1.jpg"
+        "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.1.jpg"
     },
     {
         "age" : 3,
         "id": "witch-hunter",
         "name": "Witch Hunter",
         "price": "6.05",
-        "urlImage": "img/mangas/witch-hunter/witch-hunter.1.jpg"
+        "urlImage": "assets/img/mangas/witch-hunter/witch-hunter.1.jpg"
     },
     {
         "age" : 4,
         "id": "soul-eater",
         "name": "Soul Eater",
         "price": "6.60",
-        "urlImage": "img/mangas/soul-eater/soul-eater.1.jpg"
+        "urlImage": "assets/img/mangas/soul-eater/soul-eater.1.jpg"
     },
     {
         "age" : 5,
         "id": "artelier-collection",
         "name": "Artelier Collection",
         "price": "6.60",
-        "urlImage": "img/mangas/artelier-collection/artelier-collection.1.jpg"
+        "urlImage": "assets/img/mangas/artelier-collection/artelier-collection.1.jpg"
     },
     {
         "age" : 6,
         "id": "freezing",
         "name": "Freezing",
         "price": "7.50",
-        "urlImage": "img/mangas/freezing/freezing.1.jpg"
+        "urlImage": "assets/img/mangas/freezing/freezing.1.jpg"
     },
     {
         "age" : 7,
         "id": "magi-the-labyrinth-of-magic",
         "name": "Magi - The Labyrinth of Magic",
         "price": "6.80",
-        "urlImage": "img/mangas/magi-the-labyrinth-of-magic/magi-the-labyrinth-of-magic.1.jpg"
+        "urlImage": "assets/img/mangas/magi-the-labyrinth-of-magic/magi-the-labyrinth-of-magic.1.jpg"
     },
     {
         "age" : 8,
         "id": "blood-lad",
         "name": "Blood Lad",
         "price": "7.65",
-        "urlImage": "img/mangas/blood-lad/blood-lad.1.jpg"
+        "urlImage": "assets/img/mangas/blood-lad/blood-lad.1.jpg"
     },
     {
         "age" : 9,
         "id": "attaque-des-titans",
         "name": "L'Attaque des Titans",
         "price": "6.95",
-        "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.1.jpg"
+        "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.1.jpg"
     },
     {
         "age" : 10,
         "id": "darwins-game",
         "name": "Darwin's Game",
         "price": "7.65",
-        "urlImage": "img/mangas/darwins-game/darwins-game.1.jpg"
+        "urlImage": "assets/img/mangas/darwins-game/darwins-game.1.jpg"
     },
     {
         "age" : 11,
         "id": "food-wars",
         "name": "Food Wars",
         "price": "6.99",
-        "urlImage": "img/mangas/food-wars/food-wars.1.jpg"
+        "urlImage": "assets/img/mangas/food-wars/food-wars.1.jpg"
     },
     {
         "age": 12,
         "id": "akame-ga-kill",
         "name": "Akame Ga Kill",
         "price": "7.65",
-        "urlImage": "img/mangas/akame-ga-kill/akame-ga-kill.1.jpg"
+        "urlImage": "assets/img/mangas/akame-ga-kill/akame-ga-kill.1.jpg"
     }, 
     {
         "age" : 13,
         "id": "attaque-des-titans-before-the-fall",
         "name": "L'Attaque des Titans : Before the Fall",
         "price": "6.95",
-        "urlImage": "img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.1.jpg"
+        "urlImage": "assets/img/mangas/attaque-des-titans-before-the-fall/attaque-des-titans-before-the-fall.1.jpg"
     },
     {
         "age": 14,
         "id": "one-punch-man",
         "name": "One-Punch Man",
         "price": "6.80",
-        "urlImage": "img/mangas/one-punch-man/one-punch-man.1.jpg"
+        "urlImage": "assets/img/mangas/one-punch-man/one-punch-man.1.jpg"
     },
     {
         "age": 15,
         "id": "q",
         "name": "Q",
         "price": "7.90",
-        "urlImage": "img/mangas/q/q.1.jpg"
+        "urlImage": "assets/img/mangas/q/q.1.jpg"
     },
     {
         "age" : 16,
         "id": "my-hero-academia",
         "name": "My Hero Academia",
         "price": "6.60",
-        "urlImage": "img/mangas/my-hero-academia/my-hero-academia.1.jpg"
+        "urlImage": "assets/img/mangas/my-hero-academia/my-hero-academia.1.jpg"
     },
     {
         "age" : 17,
         "id": "akame-ga-kill-zero",
         "name": "Akame Ga Kill : Zero",
         "price": "7.65",
-        "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.1.jpg"
+        "urlImage": "assets/img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.1.jpg"
     },
     {
         "age": 18,
         "id": "platinum-end",
         "name": "Platinum End",
         "price": "6.99",
-        "urlImage": "img/mangas/platinum-end/platinum-end.1.jpg"
+        "urlImage": "assets/img/mangas/platinum-end/platinum-end.1.jpg"
     },
     {
         "age": 19,
         "id": "the-rising-of-the-shield-hero",
         "name": "The Rising of the Shield Hero",
         "price": "7.50",
-        "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.1.jpg"
+        "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.1.jpg"
     },
     {
         "age": 20,
         "id": "ark-romancer",
         "name": "ARK:Romancer",
         "price": "7.50",
-        "urlImage": "img/mangas/ark-romancer/ark-romancer.1.jpg"
+        "urlImage": "assets/img/mangas/ark-romancer/ark-romancer.1.jpg"
     },
     {
         "age" : 21,
         "id": "black-clover",
         "name": "Black Clover",
         "price": "6.79",
-        "urlImage": "img/mangas/black-clover/black-clover.1.jpg"
+        "urlImage": "assets/img/mangas/black-clover/black-clover.1.jpg"
     },
     {
         "age" : 22,
         "id": "real-account",
         "name": "Real Account",
         "price": "6.80",
-        "urlImage": "img/mangas/real-account/real-account.1.jpg"
+        "urlImage": "assets/img/mangas/real-account/real-account.1.jpg"
     },
     {
         "age" : 23,
         "id": "overlord",
         "name": "Overlord",
         "price": "7.99",
-        "urlImage": "img/mangas/overlord/overlord.1.jpg"
+        "urlImage": "assets/img/mangas/overlord/overlord.1.jpg"
     },
     {
         "age" : 24,
         "id": "distopiary",
         "name": "Distopiary",
         "price": "7.50",
-        "urlImage": "img/mangas/distopiary/distopiary.1.jpg"
+        "urlImage": "assets/img/mangas/distopiary/distopiary.1.jpg"
     },
     {
         "age": 25,
         "id": "re-zero-arc-one",
         "name": "Re:Zero - Re:Life in a different world from zero [Arc 1]",
         "price": "6.99",
-        "urlImage": "img/mangas/re-zero-arc-one/re-zero-arc-one.1.jpg"
+        "urlImage": "assets/img/mangas/re-zero-arc-one/re-zero-arc-one.1.jpg"
     },
     {
         "age" : 26,
         "id": "die-retry",
         "name": "Die&Retry",
         "price": "7.99",
-        "urlImage": "img/mangas/die-retry/die-retry.1.jpg"
+        "urlImage": "assets/img/mangas/die-retry/die-retry.1.jpg"
     },
     {
         "age": 27,
         "id": "mushoku-tensei",
         "name": "Mushoku Tensei",
         "price": "7.50",
-        "urlImage": "img/mangas/mushoku-tensei/mushoku-tensei.1.jpg"
+        "urlImage": "assets/img/mangas/mushoku-tensei/mushoku-tensei.1.jpg"
     },
     {
         "age": 28,
         "id": "re-zero-arc-two",
         "name": "Re:Zero - Re:Life in a different world from zero [Arc 2]",
         "price": "6.99",
-        "urlImage": "img/mangas/re-zero-arc-two/re-zero-arc-two.1.jpg"
+        "urlImage": "assets/img/mangas/re-zero-arc-two/re-zero-arc-two.1.jpg"
     },
     {
         "age" : 29,
         "id": "danmachi-famillias",
         "name": "Dan Machi : La Légende des Familias",
         "price": "6.99",
-        "urlImage": "img/mangas/danmachi-famillias/danmachi-famillias.1.jpg"
+        "urlImage": "assets/img/mangas/danmachi-famillias/danmachi-famillias.1.jpg"
     }
 ]

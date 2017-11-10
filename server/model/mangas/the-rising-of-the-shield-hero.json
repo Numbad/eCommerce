@@ -15,35 +15,35 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.1.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.2.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.3.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.3.jpg"
             },
             {
                 "numero": 4,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.4.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.4.jpg"
             },
             {
                 "numero": 5,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.5.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.5.jpg"
             },
             {
                 "numero": 6,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.6.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.6.jpg"
             },
             {
                 "numero": 7,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.7.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.7.jpg"
             },
             {
                 "numero": 8,
-                "urlImage": "img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.8.jpg"
+                "urlImage": "assets/img/mangas/the-rising-of-the-shield-hero/the-rising-of-the-shield-hero.8.jpg"
             }
         ]
     }, 

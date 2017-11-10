@@ -15,11 +15,11 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/re-zero-arc-one/re-zero-arc-one.1.jpg"
+                "urlImage": "assets/img/mangas/re-zero-arc-one/re-zero-arc-one.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/re-zero-arc-one/re-zero-arc-one.2.jpg"
+                "urlImage": "assets/img/mangas/re-zero-arc-one/re-zero-arc-one.2.jpg"
             }
         ]
     }, 

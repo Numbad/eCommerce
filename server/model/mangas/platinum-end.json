@@ -15,27 +15,27 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/platinum-end/platinum-end.1.jpg"
+                "urlImage": "assets/img/mangas/platinum-end/platinum-end.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/platinum-end/platinum-end.2.jpg"
+                "urlImage": "assets/img/mangas/platinum-end/platinum-end.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/platinum-end/platinum-end.3.jpg"
+                "urlImage": "assets/img/mangas/platinum-end/platinum-end.3.jpg"
             },
             {
                 "numero": 4,
-                "urlImage": "img/mangas/platinum-end/platinum-end.4.jpg"
+                "urlImage": "assets/img/mangas/platinum-end/platinum-end.4.jpg"
             },
             {
                 "numero": 5,
-                "urlImage": "img/mangas/platinum-end/platinum-end.5.jpg"
+                "urlImage": "assets/img/mangas/platinum-end/platinum-end.5.jpg"
             },
             {
                 "numero": 6,
-                "urlImage": "img/mangas/platinum-end/platinum-end.6.jpg"
+                "urlImage": "assets/img/mangas/platinum-end/platinum-end.6.jpg"
             }
         ]
     }, 

@@ -15,19 +15,19 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/q/q.1.jpg"
+                "urlImage": "assets/img/mangas/q/q.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/q/q.2.jpg"
+                "urlImage": "assets/img/mangas/q/q.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/q/q.3.jpg"
+                "urlImage": "assets/img/mangas/q/q.3.jpg"
             },
             {
                 "numero": 4,
-                "urlImage": "img/mangas/q/q.4.jpg"
+                "urlImage": "assets/img/mangas/q/q.4.jpg"
             }
         ]
     }, 

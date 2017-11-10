@@ -15,39 +15,39 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/black-clover/black-clover.1.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/black-clover/black-clover.2.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/black-clover/black-clover.3.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.3.jpg"
             },
             {
                 "numero": 4,
-                "urlImage": "img/mangas/black-clover/black-clover.4.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.4.jpg"
             },
             {
                 "numero": 5,
-                "urlImage": "img/mangas/black-clover/black-clover.5.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.5.jpg"
             },
             {
                 "numero": 6,
-                "urlImage": "img/mangas/black-clover/black-clover.6.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.6.jpg"
             },
             {
                 "numero": 7,
-                "urlImage": "img/mangas/black-clover/black-clover.7.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.7.jpg"
             },
             {
                 "numero": 8,
-                "urlImage": "img/mangas/black-clover/black-clover.8.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.8.jpg"
             },
             {
                 "numero": 9,
-                "urlImage": "img/mangas/black-clover/black-clover.9.jpg"
+                "urlImage": "assets/img/mangas/black-clover/black-clover.9.jpg"
             }
         ]
     }, 

@@ -15,91 +15,91 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.1.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.2.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.3.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.3.jpg"
             },
             {
                 "numero": 4,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.4.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.4.jpg"
             },
             {
                 "numero": 5,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.5.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.5.jpg"
             },
             {
                 "numero": 6,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.6.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.6.jpg"
             },
             {
                 "numero": 7,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.7.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.7.jpg"
             },
             {
                 "numero": 8,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.8.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.8.jpg"
             },
             {
                 "numero": 9,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.9.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.9.jpg"
             },
             {
                 "numero": 10,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.10.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.10.jpg"
             },
             {
                 "numero": 11,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.11.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.11.jpg"
             },
             {
                 "numero": 12,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.12.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.12.jpg"
             },
             {
                 "numero": 13,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.13.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.13.jpg"
             },
             {
                 "numero": 14,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.14.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.14.jpg"
             },
             {
                 "numero": 15,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.15.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.15.jpg"
             },
             {
                 "numero": 16,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.16.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.16.jpg"
             },
             {
                 "numero": 17,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.17.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.17.jpg"
             },
             {
                 "numero": 18,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.18.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.18.jpg"
             },
             {
                 "numero": 19,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.19.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.19.jpg"
             },
             {
                 "numero": 20,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.20.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.20.jpg"
             },
             {
                 "numero": 21,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.21.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.21.jpg"
             },
             {
                 "numero": 22,
-                "urlImage": "img/mangas/attaque-des-titans/attaque-des-titans.22.jpg"
+                "urlImage": "assets/img/mangas/attaque-des-titans/attaque-des-titans.22.jpg"
             }
         ]
     }, 

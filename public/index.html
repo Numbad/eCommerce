@@ -4,14 +4,14 @@
 <head>
   <meta charset="utf-8">
   <title>E-Commerce</title>
-  <link rel="stylesheet" href="script/bootstrap/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/app.css" />
-  <link rel="stylesheet" href="css/toaster.css" />
-  <link rel="shortcut icon" href="img/favicon.ico">
+  <link rel="stylesheet" href="vendor/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="app.css" />
+  <link rel="stylesheet" href="vendor/toaster/toaster.css" />
+  <link rel="shortcut icon" href="assets/img/favicon.ico">
 
-  <script src="script/angular/angular.js"></script>
-  <script src="script/angular-animate/angular-animate.js"></script>
-  <script src="script/angular-route/angular-route.js"></script>
+  <script src="vendor/angular/angular.js"></script>
+  <script src="vendor/angular-animate/angular-animate.js"></script>
+  <script src="vendor/angular-route/angular-route.js"></script>
 
 </head>
 
@@ -25,9 +25,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"
     crossorigin="anonymous"></script>
-  <script src="script/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 
-  <script src="validate-purchase/validate-purchase.module.js"></script>
+  <!-- <script src="validate-purchase/validate-purchase.module.js"></script>
   <script src="validate-purchase/validate-purchase.component.js"></script>
   <script src="mangas-list/mangas-list.module.js"></script>
   <script src="mangas-list/mangas-list.component.js"></script>
@@ -40,7 +40,21 @@
   <script src="sidebar/sidebar.module.js"></script>
   <script src="sidebar/sidebar.component.js"></script>
   <script src="script/toaster/toaster.js"></script>
-  <script src="app.config.js"></script>
+  <script src="app.config.js"></script> -->
+
+  <script src="app/app.module.js"></script>
+  <script src="app/app.config.js"></script>
+  <script src="app/sidebar/sidebar.module.js"></script>
+  <script src="app/sidebar/sidebar.component.js"></script>
+  <script src="vendor/toaster/toaster.js"></script>
+  <script src="app/mangas/mangas-list/mangas-list.module.js"></script>
+  <script src="app/mangas/mangas-list/mangas-list.component.js"></script>
+  <script src="app/mangas/manga-details/manga-details.module.js"></script>
+  <script src="app/mangas/manga-details/manga-details.component.js"></script>
+  <script src="app/mangas/manga.factory.js"></script>
+  <script src="app/mangas/manga.module.js"></script>
+  <script src="app/validate-purchase/validate-purchase.module.js"></script>
+  <script src="app/validate-purchase/validate-purchase.component.js"></script>
 </body>
 
 </html>

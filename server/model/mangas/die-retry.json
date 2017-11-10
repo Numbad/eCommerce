@@ -15,15 +15,15 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/die-retry/die-retry.1.jpg"
+                "urlImage": "assets/img/mangas/die-retry/die-retry.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/die-retry/die-retry.2.jpg"
+                "urlImage": "assets/img/mangas/die-retry/die-retry.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/die-retry/die-retry.3.jpg"
+                "urlImage": "assets/img/mangas/die-retry/die-retry.3.jpg"
             }
         ]
     }, 

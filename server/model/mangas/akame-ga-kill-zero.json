@@ -15,23 +15,23 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.1.jpg"
+                "urlImage": "assets/img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.2.jpg"
+                "urlImage": "assets/img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.3.jpg"
+                "urlImage": "assets/img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.3.jpg"
             },
             {
                 "numero": 4,
-                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.4.jpg"
+                "urlImage": "assets/img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.4.jpg"
             },
             {
                 "numero": 5,
-                "urlImage": "img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.5.jpg"
+                "urlImage": "assets/img/mangas/akame-ga-kill-zero/akame-ga-kill-zero.5.jpg"
             }
         ]
     }, 

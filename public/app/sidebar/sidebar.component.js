@@ -1,9 +1,9 @@
 'use strict';
 
 angular
-    .module('eCommerceApp')
+    .module('sideBar')
     .component('sideBar', {
-        templateUrl: 'sidebar/sidebar.template.html',
+        templateUrl: 'app/sidebar/sidebar.template.html',
         controllerAs: "sbc",
         controller: function SidebarController($window, $interval) {
             var self = this;

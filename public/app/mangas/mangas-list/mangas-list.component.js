@@ -1,8 +1,9 @@
 'use strict';
 
-angular.module('mangasList')
+angular
+    .module('mangasList')
     .component('mangasList', {
-        templateUrl: 'mangas-list/mangas-list.template.html',
+        templateUrl: 'app/mangas/mangas-list/mangas-list.template.html',
         controllerAs: "mlc",
         controller: ['Manga', 
             function MangasListController(Manga) {

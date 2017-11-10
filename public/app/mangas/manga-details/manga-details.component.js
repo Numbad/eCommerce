@@ -2,7 +2,7 @@
 
 angular.module('mangaDetails')
     .component('mangaDetails', {
-        templateUrl: 'manga-details/manga-details.template.html',
+        templateUrl: 'app/mangas/manga-details/manga-details.template.html',
         controllerAs: 'mdc',
 
         controller: ['$routeParams', 'Manga', '$window', 'toaster',

@@ -15,79 +15,79 @@
         "volumes": [
             {
                 "numero": 1,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.1.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.1.jpg"
             },
             {
                 "numero": 2,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.2.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.2.jpg"
             },
             {
                 "numero": 3,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.3.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.3.jpg"
             },
             {
                 "numero": 4,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.4.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.4.jpg"
             },
             {
                 "numero": 5,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.5.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.5.jpg"
             },
             {
                 "numero": 6,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.6.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.6.jpg"
             },
             {
                 "numero": 7,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.7.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.7.jpg"
             },
             {
                 "numero": 8,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.8.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.8.jpg"
             },
             {
                 "numero": 9,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.9.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.9.jpg"
             },
             {
                 "numero": 10,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.10.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.10.jpg"
             },
             {
                 "numero": 11,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.11.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.11.jpg"
             },
             {
                 "numero": 12,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.12.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.12.jpg"
             },
             {
                 "numero": 13,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.13.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.13.jpg"
             },
             {
                 "numero": 14,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.14.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.14.jpg"
             },
             {
                 "numero": 15,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.15.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.15.jpg"
             },
             {
                 "numero": 16,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.16.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.16.jpg"
             },
             {
                 "numero": 17,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.17.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.17.jpg"
             },
             {
                 "numero": 18,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.18.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.18.jpg"
             },
             {
                 "numero": 19,
-                "urlImage": "img/mangas/ubel-blatt/ubel-blatt.19.jpg"
+                "urlImage": "assets/img/mangas/ubel-blatt/ubel-blatt.19.jpg"
             }
         ]
     }, 
